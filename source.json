@@ -1,0 +1,24 @@
+{
+  "gameUri": "https://835df227-0e2f-49fc-90cd-67396cbc4013.gdn.poki.com/ed95e682-9510-4fa7-abf3-28db2ebd4ec2/index.html?country=VN&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2Fen%2Fg%2F9-ball-pool&domain=poki.com&game_id=835df227-0e2f-49fc-90cd-67396cbc4013&game_version_id=ed95e682-9510-4fa7-abf3-28db2ebd4ec2&inspector=0&csp=1",
+  "domain": "poki.com",
+  "device": "desktop",
+  "onPoki": true,
+  "onKids": false,
+  "isLocal": false,
+  "gameID": "835df227-0e2f-49fc-90cd-67396cbc4013",
+  "gameVersion": "ed95e682-9510-4fa7-abf3-28db2ebd4ec2",
+  "footer": null,
+  "canonical": "https://poki.com/en/g/9-ball-pool",
+  "contentGameID": 29976,
+  "bot": {
+    "verified": false,
+    "score": 99
+  },
+  "experiment": "",
+  "cloudSaveGames": false,
+  "localisations": {
+    "playingad": "Playing Ad",
+    "loading": "Loading",
+    "preparing": "Preparing..."
+  }
+}

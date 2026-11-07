@@ -1,0 +1,5 @@
+<body style="background:#468;margin:0;font:10px sans-serif;color:#fff"><div id=o style="display:flex;flex-wrap:wrap;gap:8px"></div>
+<script>
+const list=(location.hash.slice(1)).split(',');
+list.forEach(u=>{const img=new Image();img.src='/9-ball-pool/files/assets/'+u;img.onload=()=>{const c=document.createElement('canvas');c.width=img.width;c.height=img.height;const x=c.getContext('2d');x.drawImage(img,0,0);x.strokeStyle='rgba(255,0,0,.55)';x.fillStyle='#f44';x.font='9px sans-serif';for(let i=0;i<=img.width;i+=32){x.beginPath();x.moveTo(i+.5,0);x.lineTo(i+.5,img.height);x.stroke();x.fillText(i,i+1,9);}for(let j=0;j<=img.height;j+=32){x.beginPath();x.moveTo(0,j+.5);x.lineTo(img.width,j+.5);x.stroke();x.fillText(j,1,j+9);}document.getElementById('o').appendChild(c);}});
+</script></body>

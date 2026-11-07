@@ -1,0 +1,1 @@
+{"model":{"version":3,"nodes":[{"name":"RootNode","position":[0,0,0],"rotation":[0,0,0],"scale":[0.0254,0.0254,0.0254],"scaleCompensation":false},{"name":"cama","position":[-2417.82,205.025,-1102.58],"rotation":[-15.5684,-67,1.6388e-06],"scale":[1,1,1],"scaleCompensation":false}],"parents":[-1,0],"skins":[],"morphs":[],"vertices":[],"meshes":[],"meshInstances":[]}}

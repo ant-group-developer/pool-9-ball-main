@@ -1,0 +1,1852 @@
+[
+  {
+    "uri": "styles.css",
+    "status": 200,
+    "bytes": 736
+  },
+  {
+    "uri": "manifest.json",
+    "status": 200,
+    "bytes": 351
+  },
+  {
+    "uri": "/__remote/game-cdn.poki.com/scripts/v2/poki-sdk.js",
+    "status": 200,
+    "bytes": 6688
+  },
+  {
+    "uri": "playcanvas-stable.min.js",
+    "status": 200,
+    "bytes": 1744902
+  },
+  {
+    "uri": "__settings__.js",
+    "status": 200,
+    "bytes": 1161
+  },
+  {
+    "uri": "__modules__.js",
+    "status": 200,
+    "bytes": 1733
+  },
+  {
+    "uri": "__start__.js",
+    "status": 200,
+    "bytes": 12415
+  },
+  {
+    "uri": "__loading__.js",
+    "status": 200,
+    "bytes": 3162
+  },
+  {
+    "uri": "files/assets/39035940/1/barrasuperior-1.png",
+    "status": 200,
+    "bytes": 8794
+  },
+  {
+    "uri": "files/assets/39035941/1/boton-playagain.png",
+    "status": 200,
+    "bytes": 32213
+  },
+  {
+    "uri": "files/assets/39035942/1/HUD-superior---siguientebola.png",
+    "status": 200,
+    "bytes": 2241
+  },
+  {
+    "uri": "1043025.json",
+    "status": 200,
+    "bytes": 583710
+  },
+  {
+    "uri": "files/assets/39035943/1/slot-bola-masse.png",
+    "status": 200,
+    "bytes": 2969
+  },
+  {
+    "uri": "files/assets/39035944/1/oscurecedor.png",
+    "status": 200,
+    "bytes": 554
+  },
+  {
+    "uri": "files/assets/39035946/1/sound-on.png",
+    "status": 200,
+    "bytes": 6694
+  },
+  {
+    "uri": "files/assets/39035947/1/barrasuperior-2.png",
+    "status": 200,
+    "bytes": 10709
+  },
+  {
+    "uri": "files/assets/39035948/1/cortina-abajo.png",
+    "status": 200,
+    "bytes": 4032
+  },
+  {
+    "uri": "files/assets/39035949/1/howtoplay.png",
+    "status": 200,
+    "bytes": 4579
+  },
+  {
+    "uri": "files/assets/39035950/1/cortina-arriba.png",
+    "status": 200,
+    "bytes": 4122
+  },
+  {
+    "uri": "files/assets/39035951/1/pool-mesa-D.json",
+    "status": 200,
+    "bytes": 189231
+  },
+  {
+    "uri": "files/assets/39035953/1/sound-off.png",
+    "status": 200,
+    "bytes": 6355
+  },
+  {
+    "uri": "files/assets/39035954/1/boton-mace.png",
+    "status": 200,
+    "bytes": 11449
+  },
+  {
+    "uri": "files/assets/39035957/1/tutorial-cerrar.png",
+    "status": 200,
+    "bytes": 2075
+  },
+  {
+    "uri": "files/assets/39035963/1/trick-2.png",
+    "status": 200,
+    "bytes": 4894
+  },
+  {
+    "uri": "files/assets/39035969/1/trick-3.png",
+    "status": 200,
+    "bytes": 5360
+  },
+  {
+    "uri": "__game-scripts.js",
+    "status": 200,
+    "bytes": 407632
+  },
+  {
+    "uri": "files/assets/39035970/1/tutorial-mobile.png",
+    "status": 200,
+    "bytes": 263446
+  },
+  {
+    "uri": "files/assets/39035964/1/tutorial-PC.png",
+    "status": 200,
+    "bytes": 245245
+  },
+  {
+    "uri": "files/assets/39035977/1/logo.png",
+    "status": 200,
+    "bytes": 178641
+  },
+  {
+    "uri": "files/assets/39035981/1/UI-bola8.png",
+    "status": 200,
+    "bytes": 2515
+  },
+  {
+    "uri": "files/assets/39035986/1/camar.json",
+    "status": 200,
+    "bytes": 367
+  },
+  {
+    "uri": "files/assets/39035993/1/cubano-regular-webfont.png",
+    "status": 200,
+    "bytes": 78332
+  },
+  {
+    "uri": "files/assets/39035995/1/finTurno.mp3",
+    "status": 200,
+    "bytes": 2528
+  },
+  {
+    "uri": "files/assets/39035999/1/bola%20colision%20fuerte.mp3",
+    "status": 200,
+    "bytes": 6560
+  },
+  {
+    "uri": "files/assets/39036000/1/metebola.mp3",
+    "status": 200,
+    "bytes": 7712
+  },
+  {
+    "uri": "files/assets/39036002/1/plano-lineablanca.png",
+    "status": 200,
+    "bytes": 263
+  },
+  {
+    "uri": "files/assets/39035998/1/ammo.wasm.wasm",
+    "status": 200,
+    "bytes": 693917
+  },
+  {
+    "uri": "files/assets/39036006/1/pasar%20turno.mp3",
+    "status": 200,
+    "bytes": 6944
+  },
+  {
+    "uri": "files/assets/39036007/1/tacos%20y%20mesas%20boton.mp3",
+    "status": 200,
+    "bytes": 8096
+  },
+  {
+    "uri": "files/assets/39036008/1/siluetas.png",
+    "status": 200,
+    "bytes": 29012
+  },
+  {
+    "uri": "files/assets/39036009/1/hud-masse-bola-puntoGUI.png",
+    "status": 200,
+    "bytes": 559
+  },
+  {
+    "uri": "files/assets/39036011/1/bola%20colision%20media.mp3",
+    "status": 200,
+    "bytes": 6944
+  },
+  {
+    "uri": "files/assets/39036013/1/reflectgio8.png",
+    "status": 200,
+    "bytes": 74397
+  },
+  {
+    "uri": "files/assets/39036015/1/icono-mouse.png",
+    "status": 200,
+    "bytes": 3779
+  },
+  {
+    "uri": "files/assets/39036017/1/menu%20botones%20click%20singleplayer-multiplayer.mp3",
+    "status": 200,
+    "bytes": 16352
+  },
+  {
+    "uri": "files/assets/39036023/1/hud-masse-bola-punto.png",
+    "status": 200,
+    "bytes": 786
+  },
+  {
+    "uri": "files/assets/39036026/1/bola15.png",
+    "status": 200,
+    "bytes": 2168
+  },
+  {
+    "uri": "files/assets/39036030/1/bola12.png",
+    "status": 200,
+    "bytes": 2196
+  },
+  {
+    "uri": "files/assets/39036027/1/luz.png",
+    "status": 200,
+    "bytes": 4015
+  },
+  {
+    "uri": "files/assets/39036033/1/error%20compra%20tienda.mp3",
+    "status": 200,
+    "bytes": 12896
+  },
+  {
+    "uri": "files/assets/39036036/1/boton%20retroceder.mp3",
+    "status": 200,
+    "bytes": 4832
+  },
+  {
+    "uri": "files/assets/39036038/1/victoria.mp3",
+    "status": 200,
+    "bytes": 12128
+  },
+  {
+    "uri": "files/assets/39036039/1/pocket-circulo-segmentado.json",
+    "status": 200,
+    "bytes": 5465
+  },
+  {
+    "uri": "files/assets/39036041/1/apuntar.mp3",
+    "status": 200,
+    "bytes": 1184
+  },
+  {
+    "uri": "files/assets/39036040/1/derrota.mp3",
+    "status": 200,
+    "bytes": 19616
+  },
+  {
+    "uri": "files/assets/39036044/1/bola4.png",
+    "status": 200,
+    "bytes": 1703
+  },
+  {
+    "uri": "files/assets/39036042/1/sonido%20boton%20alternativo_2.mp3",
+    "status": 200,
+    "bytes": 3488
+  },
+  {
+    "uri": "files/assets/39036047/1/linea-4-12.png",
+    "status": 200,
+    "bytes": 4771
+  },
+  {
+    "uri": "files/assets/39036049/1/linea-6-14.png",
+    "status": 200,
+    "bytes": 4857
+  },
+  {
+    "uri": "files/assets/39036051/1/linea-blanca.png",
+    "status": 200,
+    "bytes": 6761
+  },
+  {
+    "uri": "files/assets/39036053/1/CIRCULO.png",
+    "status": 200,
+    "bytes": 7198
+  },
+  {
+    "uri": "files/assets/39036054/1/UI-bola10.png",
+    "status": 200,
+    "bytes": 3249
+  },
+  {
+    "uri": "files/assets/39036056/1/camara-punto2.json",
+    "status": 200,
+    "bytes": 1654
+  },
+  {
+    "uri": "files/assets/39036058/1/UI-bola9.png",
+    "status": 200,
+    "bytes": 3150
+  },
+  {
+    "uri": "files/assets/39036067/1/UI-bola4.png",
+    "status": 200,
+    "bytes": 2909
+  },
+  {
+    "uri": "files/assets/39036068/1/pool%20taco.json",
+    "status": 200,
+    "bytes": 31654
+  },
+  {
+    "uri": "files/assets/39036090/1/bola-sombra.json",
+    "status": 200,
+    "bytes": 775
+  },
+  {
+    "uri": "files/assets/39036101/1/compra%20tienda.mp3",
+    "status": 200,
+    "bytes": 14432
+  },
+  {
+    "uri": "files/assets/39036109/1/resultado%20score.mp3",
+    "status": 200,
+    "bytes": 20192
+  },
+  {
+    "uri": "files/assets/39036113/1/pocket-medio-abajo.json",
+    "status": 200,
+    "bytes": 2489
+  },
+  {
+    "uri": "files/assets/39036115/1/plano-apuntar-inicial.json",
+    "status": 200,
+    "bytes": 812
+  },
+  {
+    "uri": "files/assets/39036116/1/UI-bola14.png",
+    "status": 200,
+    "bytes": 3231
+  },
+  {
+    "uri": "files/assets/39036117/1/flechas-movewhite.json",
+    "status": 200,
+    "bytes": 5350
+  },
+  {
+    "uri": "files/assets/39036119/1/panel-abajo.png",
+    "status": 200,
+    "bytes": 2879
+  },
+  {
+    "uri": "files/assets/39036121/1/ammo.wasm.js",
+    "status": 200,
+    "bytes": 296741
+  },
+  {
+    "uri": "files/assets/39036122/1/glow-mesa.png",
+    "status": 200,
+    "bytes": 2373
+  },
+  {
+    "uri": "files/assets/39036138/1/linea-5-13.png",
+    "status": 200,
+    "bytes": 5118
+  },
+  {
+    "uri": "files/assets/39036172/1/hud-masse-bolaGUI.png",
+    "status": 200,
+    "bytes": 7294
+  },
+  {
+    "uri": "files/assets/39036175/1/hud-superior-extensor.png",
+    "status": 200,
+    "bytes": 465
+  },
+  {
+    "uri": "files/assets/39036176/1/WIN01.mp3",
+    "status": 200,
+    "bytes": 40160
+  },
+  {
+    "uri": "files/assets/39036178/1/TIC-pocotiempo.mp3",
+    "status": 200,
+    "bytes": 8096
+  },
+  {
+    "uri": "files/assets/39036179/1/tomaBlanca.mp3",
+    "status": 200,
+    "bytes": 1376
+  },
+  {
+    "uri": "files/assets/39036183/1/soltarBlanca.mp3",
+    "status": 200,
+    "bytes": 3488
+  },
+  {
+    "uri": "files/assets/39036190/1/UI-bola11.png",
+    "status": 200,
+    "bytes": 3133
+  },
+  {
+    "uri": "files/assets/39036191/1/UI-bola7.png",
+    "status": 200,
+    "bytes": 2736
+  },
+  {
+    "uri": "files/assets/39036194/1/gradienteBG.png",
+    "status": 200,
+    "bytes": 500
+  },
+  {
+    "uri": "files/assets/39036196/1/piso-fondo.png",
+    "status": 200,
+    "bytes": 460151
+  },
+  {
+    "uri": "files/assets/39036197/1/UI-bola2.png",
+    "status": 200,
+    "bytes": 2974
+  },
+  {
+    "uri": "files/assets/39036198/1/bola8.png",
+    "status": 200,
+    "bytes": 2104
+  },
+  {
+    "uri": "files/assets/39036200/1/plano-apuntarC.json",
+    "status": 200,
+    "bytes": 1150
+  },
+  {
+    "uri": "files/assets/39036201/1/bola%20colision%20debil.mp3",
+    "status": 200,
+    "bytes": 3296
+  },
+  {
+    "uri": "files/assets/39036202/1/hud-masse-oscurecedor.png",
+    "status": 200,
+    "bytes": 519
+  },
+  {
+    "uri": "files/assets/39036206/1/bola13.png",
+    "status": 200,
+    "bytes": 2274
+  },
+  {
+    "uri": "files/assets/39036208/1/camara-punto1.json",
+    "status": 200,
+    "bytes": 1645
+  },
+  {
+    "uri": "files/assets/39036209/1/UI-bola6.png",
+    "status": 200,
+    "bytes": 2924
+  },
+  {
+    "uri": "files/assets/39036211/1/UI-bola12.png",
+    "status": 200,
+    "bytes": 3277
+  },
+  {
+    "uri": "files/assets/39036212/1/UI-bola3.png",
+    "status": 200,
+    "bytes": 3126
+  },
+  {
+    "uri": "files/assets/39036213/1/bola9.png",
+    "status": 200,
+    "bytes": 2158
+  },
+  {
+    "uri": "files/assets/39036215/1/bola5.png",
+    "status": 200,
+    "bytes": 1871
+  },
+  {
+    "uri": "files/assets/39036216/1/bola2.png",
+    "status": 200,
+    "bytes": 1936
+  },
+  {
+    "uri": "files/assets/39036217/1/bola3.png",
+    "status": 200,
+    "bytes": 2075
+  },
+  {
+    "uri": "files/assets/39036219/1/bola14.png",
+    "status": 200,
+    "bytes": 2035
+  },
+  {
+    "uri": "files/assets/39035945/1/panel-totalscore.png",
+    "status": 200,
+    "bytes": 43585
+  },
+  {
+    "uri": "files/assets/39036232/1/indicador-circulo.json",
+    "status": 200,
+    "bytes": 771
+  },
+  {
+    "uri": "files/assets/39036203/1/tutorial-flechaindicadora.png",
+    "status": 200,
+    "bytes": 6662
+  },
+  {
+    "uri": "files/assets/39036237/1/primer%20golpe%20a%20bolas.mp3",
+    "status": 200,
+    "bytes": 7712
+  },
+  {
+    "uri": "files/assets/39036241/1/sonido%20on_off%20(2).mp3",
+    "status": 200,
+    "bytes": 1952
+  },
+  {
+    "uri": "files/assets/39036243/1/pocket-derecha-abajo.json",
+    "status": 200,
+    "bytes": 3281
+  },
+  {
+    "uri": "files/assets/39036244/1/linea-1-9.png",
+    "status": 200,
+    "bytes": 4845
+  },
+  {
+    "uri": "files/assets/39036245/1/reflectgio5.png",
+    "status": 200,
+    "bytes": 376344
+  },
+  {
+    "uri": "files/assets/39036246/1/linea-8.png",
+    "status": 200,
+    "bytes": 3868
+  },
+  {
+    "uri": "files/assets/39036248/1/bola11.png",
+    "status": 200,
+    "bytes": 1846
+  },
+  {
+    "uri": "files/assets/39036251/1/tutorial-dedo.png",
+    "status": 200,
+    "bytes": 49660
+  },
+  {
+    "uri": "files/assets/39036254/1/bola7.png",
+    "status": 200,
+    "bytes": 1866
+  },
+  {
+    "uri": "files/assets/39036255/1/oscurecedor.png",
+    "status": 200,
+    "bytes": 311
+  },
+  {
+    "uri": "files/assets/39036256/1/bola6.png",
+    "status": 200,
+    "bytes": 1958
+  },
+  {
+    "uri": "files/assets/39036258/1/sombraB.png",
+    "status": 200,
+    "bytes": 7816
+  },
+  {
+    "uri": "files/assets/39036259/1/bola1.png",
+    "status": 200,
+    "bytes": 1599
+  },
+  {
+    "uri": "files/assets/39036261/1/bola-blanca.png",
+    "status": 200,
+    "bytes": 678
+  },
+  {
+    "uri": "files/assets/39036267/1/bola10.png",
+    "status": 200,
+    "bytes": 2276
+  },
+  {
+    "uri": "files/assets/39036272/1/taco%20golpea%20bola-debil.mp3",
+    "status": 200,
+    "bytes": 2144
+  },
+  {
+    "uri": "files/assets/39036273/1/tutorial-tapador-barrasuperior.png",
+    "status": 200,
+    "bytes": 438
+  },
+  {
+    "uri": "files/assets/39036199/1/panel-ok.png",
+    "status": 200,
+    "bytes": 8906
+  },
+  {
+    "uri": "files/assets/39036025/1/gradien2.png",
+    "status": 200,
+    "bytes": 72708
+  },
+  {
+    "uri": "files/assets/39036279/1/taco%20golpea%20bola-fuerte.mp3",
+    "status": 200,
+    "bytes": 5792
+  },
+  {
+    "uri": "files/assets/39036281/1/linea-7-15.png",
+    "status": 200,
+    "bytes": 4306
+  },
+  {
+    "uri": "files/assets/39036284/1/linea-2-10.png",
+    "status": 200,
+    "bytes": 4807
+  },
+  {
+    "uri": "files/assets/39036291/1/hud-masse-bola.png",
+    "status": 200,
+    "bytes": 43012
+  },
+  {
+    "uri": "files/assets/39036293/1/linea-3-11.png",
+    "status": 200,
+    "bytes": 4816
+  },
+  {
+    "uri": "files/assets/39036297/1/UI-bola13.png",
+    "status": 200,
+    "bytes": 3282
+  },
+  {
+    "uri": "files/assets/39036299/1/UI-bola5.png",
+    "status": 200,
+    "bytes": 3263
+  },
+  {
+    "uri": "files/assets/39036300/1/UI-bola15.png",
+    "status": 200,
+    "bytes": 3246
+  },
+  {
+    "uri": "files/assets/39036301/1/glow-mesacompleta.json",
+    "status": 200,
+    "bytes": 38577
+  },
+  {
+    "uri": "files/assets/39036302/1/pocket-izquierda-arriba.json",
+    "status": 200,
+    "bytes": 3274
+  },
+  {
+    "uri": "files/assets/39036304/1/escenamain.json",
+    "status": 200,
+    "bytes": 18915
+  },
+  {
+    "uri": "files/assets/39036307/1/pocket-derecha-arriba.json",
+    "status": 200,
+    "bytes": 2777
+  },
+  {
+    "uri": "files/assets/39036309/1/bola-pool.json",
+    "status": 200,
+    "bytes": 19336
+  },
+  {
+    "uri": "files/assets/39036310/1/plano-apuntar-baseC.json",
+    "status": 200,
+    "bytes": 2975
+  },
+  {
+    "uri": "files/assets/39036311/1/pocket-circulo-segmentado.png",
+    "status": 200,
+    "bytes": 335
+  },
+  {
+    "uri": "files/assets/39036312/1/glow-inicial.json",
+    "status": 200,
+    "bytes": 12821
+  },
+  {
+    "uri": "files/assets/39036313/1/pocket-izquierda-abajo.json",
+    "status": 200,
+    "bytes": 2864
+  },
+  {
+    "uri": "files/assets/39036315/1/text%20pools%20tac.png",
+    "status": 200,
+    "bytes": 58088
+  },
+  {
+    "uri": "files/assets/39036316/1/pocket-medio-arriba.json",
+    "status": 200,
+    "bytes": 2061
+  },
+  {
+    "uri": "files/assets/39036317/1/topes.png",
+    "status": 200,
+    "bytes": 11847
+  },
+  {
+    "uri": "files/assets/39036318/1/tapador.json",
+    "status": 200,
+    "bytes": 5809
+  },
+  {
+    "uri": "files/assets/39036320/1/UI-bola1.png",
+    "status": 200,
+    "bytes": 3128
+  },
+  {
+    "uri": "files/assets/39036321/1/oscurecedor-opciones.png",
+    "status": 200,
+    "bytes": 1540
+  },
+  {
+    "uri": "files/assets/39036453/1/mesa.png",
+    "status": 200,
+    "bytes": 61745
+  },
+  {
+    "uri": "files/assets/39036455/1/bals.png",
+    "status": 200,
+    "bytes": 194056
+  },
+  {
+    "uri": "files/assets/39036125/1/gradien3.png",
+    "status": 200,
+    "bytes": 169818
+  },
+  {
+    "uri": "files/assets/39036457/1/barrapower-taco.png",
+    "status": 200,
+    "bytes": 35764
+  },
+  {
+    "uri": "files/assets/39036458/1/circulo-bolaX.png",
+    "status": 200,
+    "bytes": 9933
+  },
+  {
+    "uri": "files/assets/39036459/1/meteblanca.png",
+    "status": 200,
+    "bytes": 7145
+  },
+  {
+    "uri": "files/assets/39036465/1/barrapower-oscurecedor.png",
+    "status": 200,
+    "bytes": 2817
+  },
+  {
+    "uri": "files/assets/39036227/1/metebola2.mp3",
+    "status": 200,
+    "bytes": 12704
+  },
+  {
+    "uri": "files/assets/39036466/1/barrapower-base.png",
+    "status": 200,
+    "bytes": 12987
+  },
+  {
+    "uri": "files/assets/39036468/1/indicador-nextball.json",
+    "status": 200,
+    "bytes": 4134
+  },
+  {
+    "uri": "files/assets/39036470/1/taptoplay-eng.png",
+    "status": 200,
+    "bytes": 8240
+  },
+  {
+    "uri": "files/assets/39036482/1/rdygo0001.png",
+    "status": 200,
+    "bytes": 13571
+  },
+  {
+    "uri": "files/assets/39036484/1/rdygo0007.png",
+    "status": 200,
+    "bytes": 16997
+  },
+  {
+    "uri": "files/assets/39036485/1/rdygo0003.png",
+    "status": 200,
+    "bytes": 15258
+  },
+  {
+    "uri": "files/assets/39036486/1/rdygo0004.png",
+    "status": 200,
+    "bytes": 15836
+  },
+  {
+    "uri": "files/assets/39036487/1/rdygo0012.png",
+    "status": 200,
+    "bytes": 17012
+  },
+  {
+    "uri": "files/assets/39036488/1/rdygo0015.png",
+    "status": 200,
+    "bytes": 16857
+  },
+  {
+    "uri": "files/assets/39036489/1/rdygo0016.png",
+    "status": 200,
+    "bytes": 16962
+  },
+  {
+    "uri": "files/assets/39036490/1/rdygo0019.png",
+    "status": 200,
+    "bytes": 16871
+  },
+  {
+    "uri": "files/assets/39036491/1/rdygo0017.png",
+    "status": 200,
+    "bytes": 16952
+  },
+  {
+    "uri": "files/assets/39036492/1/rdygo0024.png",
+    "status": 200,
+    "bytes": 39989
+  },
+  {
+    "uri": "files/assets/39036493/1/rdygo0002.png",
+    "status": 200,
+    "bytes": 14666
+  },
+  {
+    "uri": "files/assets/39036494/1/rdygo0014.png",
+    "status": 200,
+    "bytes": 16812
+  },
+  {
+    "uri": "files/assets/39036495/1/rdygo0036.png",
+    "status": 200,
+    "bytes": 21878
+  },
+  {
+    "uri": "files/assets/39036496/1/rdygo0037.png",
+    "status": 200,
+    "bytes": 21356
+  },
+  {
+    "uri": "files/assets/39036497/1/rdygo0008.png",
+    "status": 200,
+    "bytes": 16802
+  },
+  {
+    "uri": "files/assets/39036498/1/rdygo0020.png",
+    "status": 200,
+    "bytes": 20787
+  },
+  {
+    "uri": "files/assets/39036499/1/rdygo0028.png",
+    "status": 200,
+    "bytes": 36794
+  },
+  {
+    "uri": "files/assets/39036500/1/rdygo0031.png",
+    "status": 200,
+    "bytes": 23450
+  },
+  {
+    "uri": "files/assets/39036501/1/rdygo0039.png",
+    "status": 200,
+    "bytes": 18905
+  },
+  {
+    "uri": "files/assets/39036502/1/rdygo0011.png",
+    "status": 200,
+    "bytes": 16958
+  },
+  {
+    "uri": "files/assets/39036503/1/rdygo0018.png",
+    "status": 200,
+    "bytes": 17003
+  },
+  {
+    "uri": "files/assets/39036504/1/rdygo0005.png",
+    "status": 200,
+    "bytes": 16404
+  },
+  {
+    "uri": "files/assets/39036505/1/rdygo0027.png",
+    "status": 200,
+    "bytes": 38187
+  },
+  {
+    "uri": "files/assets/39036506/1/rdygo0010.png",
+    "status": 200,
+    "bytes": 16956
+  },
+  {
+    "uri": "files/assets/39036507/1/rdygo0009.png",
+    "status": 200,
+    "bytes": 16889
+  },
+  {
+    "uri": "files/assets/39036508/1/rdygo0026.png",
+    "status": 200,
+    "bytes": 38710
+  },
+  {
+    "uri": "files/assets/39036509/1/rdygo0034.png",
+    "status": 200,
+    "bytes": 22368
+  },
+  {
+    "uri": "files/assets/39036510/1/rdygo0013.png",
+    "status": 200,
+    "bytes": 16884
+  },
+  {
+    "uri": "files/assets/39036511/1/rdygo0006.png",
+    "status": 200,
+    "bytes": 16812
+  },
+  {
+    "uri": "files/assets/39036512/1/rdygo0021.png",
+    "status": 200,
+    "bytes": 25079
+  },
+  {
+    "uri": "files/assets/39036513/1/rdygo0035.png",
+    "status": 200,
+    "bytes": 22171
+  },
+  {
+    "uri": "files/assets/39036514/1/rdygo0023.png",
+    "status": 200,
+    "bytes": 34785
+  },
+  {
+    "uri": "files/assets/39036515/1/rdygo0030.png",
+    "status": 200,
+    "bytes": 23627
+  },
+  {
+    "uri": "files/assets/39036516/1/rdygo0022.png",
+    "status": 200,
+    "bytes": 29673
+  },
+  {
+    "uri": "files/assets/39036517/1/rdygo0038.png",
+    "status": 200,
+    "bytes": 20268
+  },
+  {
+    "uri": "files/assets/39036518/1/rdygo0025.png",
+    "status": 200,
+    "bytes": 39990
+  },
+  {
+    "uri": "files/assets/39036519/1/rdygo0032.png",
+    "status": 200,
+    "bytes": 22911
+  },
+  {
+    "uri": "files/assets/39036520/1/rdygo0033.png",
+    "status": 200,
+    "bytes": 22394
+  },
+  {
+    "uri": "files/assets/39036521/1/rdygo0042.png",
+    "status": 200,
+    "bytes": 5240
+  },
+  {
+    "uri": "files/assets/39036522/1/rdygo0029.png",
+    "status": 200,
+    "bytes": 36060
+  },
+  {
+    "uri": "files/assets/39036523/1/rdygo0040.png",
+    "status": 200,
+    "bytes": 15348
+  },
+  {
+    "uri": "files/assets/39036524/1/rdygo0041.png",
+    "status": 200,
+    "bytes": 11339
+  },
+  {
+    "uri": "files/assets/39036526/1/rdygo0043.png",
+    "status": 200,
+    "bytes": 293
+  },
+  {
+    "uri": "files/assets/39036530/1/tocabola-3.png",
+    "status": 200,
+    "bytes": 5721
+  },
+  {
+    "uri": "files/assets/39036532/1/tocabola-2.png",
+    "status": 200,
+    "bytes": 5458
+  },
+  {
+    "uri": "files/assets/39036533/1/metabola-22.png",
+    "status": 200,
+    "bytes": 6714
+  },
+  {
+    "uri": "files/assets/39036534/1/metabola-10.png",
+    "status": 200,
+    "bytes": 5157
+  },
+  {
+    "uri": "files/assets/39036537/1/perfect-100.png",
+    "status": 200,
+    "bytes": 40370
+  },
+  {
+    "uri": "files/assets/39036539/1/metabola-11.png",
+    "status": 200,
+    "bytes": 4959
+  },
+  {
+    "uri": "files/assets/39036540/1/metabola-33.png",
+    "status": 200,
+    "bytes": 7231
+  },
+  {
+    "uri": "files/assets/39036541/1/tocabola-1.png",
+    "status": 200,
+    "bytes": 4751
+  },
+  {
+    "uri": "files/assets/39036542/1/metebola-20.png",
+    "status": 200,
+    "bytes": 5877
+  },
+  {
+    "uri": "files/assets/39036543/1/metabola-30.png",
+    "status": 200,
+    "bytes": 7576
+  },
+  {
+    "uri": "files/assets/39036544/1/great-40.png",
+    "status": 200,
+    "bytes": 35418
+  },
+  {
+    "uri": "files/assets/39036547/1/incredible-200.png",
+    "status": 200,
+    "bytes": 47990
+  },
+  {
+    "uri": "files/assets/39044874/1/menupause.png",
+    "status": 200,
+    "bytes": 11028
+  },
+  {
+    "uri": "files/assets/39044875/1/btn-howtoplay.png",
+    "status": 200,
+    "bytes": 15765
+  },
+  {
+    "uri": "files/assets/39044876/1/resume.png",
+    "status": 200,
+    "bytes": 15079
+  },
+  {
+    "uri": "files/assets/39044877/1/endgame.png",
+    "status": 200,
+    "bytes": 15005
+  },
+  {
+    "uri": "files/assets/39060875/1/pool%20ingame.mp3",
+    "status": 200,
+    "bytes": 887418
+  },
+  {
+    "uri": "files/assets/39060876/1/pool%20mainmenu.mp3",
+    "status": 200,
+    "bytes": 380928
+  },
+  {
+    "uri": "files/assets/39074141/1/boton-arriba.png",
+    "status": 200,
+    "bytes": 70009
+  },
+  {
+    "uri": "files/assets/39074143/1/boton-background.png",
+    "status": 200,
+    "bytes": 14826
+  },
+  {
+    "uri": "files/assets/39074145/1/continue-timer0001.png",
+    "status": 200,
+    "bytes": 1818
+  },
+  {
+    "uri": "files/assets/39074146/1/continue-timer0003.png",
+    "status": 200,
+    "bytes": 2208
+  },
+  {
+    "uri": "files/assets/39074147/1/continue-timer0002.png",
+    "status": 200,
+    "bytes": 2143
+  },
+  {
+    "uri": "files/assets/39074148/1/continue-timer0007.png",
+    "status": 200,
+    "bytes": 2215
+  },
+  {
+    "uri": "files/assets/39074149/1/continue-timer0006.png",
+    "status": 200,
+    "bytes": 2240
+  },
+  {
+    "uri": "files/assets/39074150/1/continue-timer0004.png",
+    "status": 200,
+    "bytes": 2246
+  },
+  {
+    "uri": "files/assets/39074151/1/continue-timer0005.png",
+    "status": 200,
+    "bytes": 2184
+  },
+  {
+    "uri": "files/assets/39036274/1/tutorial-ajustapower.png",
+    "status": 200,
+    "bytes": 12573
+  },
+  {
+    "uri": "files/assets/39074152/1/continue-timer0008.png",
+    "status": 200,
+    "bytes": 2220
+  },
+  {
+    "uri": "files/assets/39074153/1/continue-timer0009.png",
+    "status": 200,
+    "bytes": 2211
+  },
+  {
+    "uri": "files/assets/39074154/1/continue-timer0010.png",
+    "status": 200,
+    "bytes": 2204
+  },
+  {
+    "uri": "files/assets/39074155/1/continue-timer0011.png",
+    "status": 200,
+    "bytes": 2256
+  },
+  {
+    "uri": "files/assets/39074156/1/continue-timer0012.png",
+    "status": 200,
+    "bytes": 2226
+  },
+  {
+    "uri": "files/assets/39074157/1/continue-timer0013.png",
+    "status": 200,
+    "bytes": 2228
+  },
+  {
+    "uri": "files/assets/39074158/1/continue-timer0014.png",
+    "status": 200,
+    "bytes": 2198
+  },
+  {
+    "uri": "files/assets/39074159/1/continue-timer0015.png",
+    "status": 200,
+    "bytes": 2230
+  },
+  {
+    "uri": "files/assets/39074160/1/continue-timer0016.png",
+    "status": 200,
+    "bytes": 2223
+  },
+  {
+    "uri": "files/assets/39036263/1/panel-base.png",
+    "status": 200,
+    "bytes": 6587
+  },
+  {
+    "uri": "files/assets/39074161/1/continue-timer0017.png",
+    "status": 200,
+    "bytes": 2254
+  },
+  {
+    "uri": "files/assets/39074162/1/continue-timer0019.png",
+    "status": 200,
+    "bytes": 2201
+  },
+  {
+    "uri": "files/assets/39074163/1/continue-timer0020.png",
+    "status": 200,
+    "bytes": 2203
+  },
+  {
+    "uri": "files/assets/39074164/1/continue-timer0018.png",
+    "status": 200,
+    "bytes": 2202
+  },
+  {
+    "uri": "files/assets/39074165/1/continue-timer0021.png",
+    "status": 200,
+    "bytes": 2158
+  },
+  {
+    "uri": "files/assets/39074166/1/continue-timer0022.png",
+    "status": 200,
+    "bytes": 2213
+  },
+  {
+    "uri": "files/assets/39074167/1/continue-timer0023.png",
+    "status": 200,
+    "bytes": 2160
+  },
+  {
+    "uri": "files/assets/39074168/1/continue-timer0024.png",
+    "status": 200,
+    "bytes": 2120
+  },
+  {
+    "uri": "files/assets/39074169/1/continue-timer0025.png",
+    "status": 200,
+    "bytes": 2198
+  },
+  {
+    "uri": "files/assets/39074170/1/continue-timer0026.png",
+    "status": 200,
+    "bytes": 2130
+  },
+  {
+    "uri": "files/assets/39074171/1/continue-timer0028.png",
+    "status": 200,
+    "bytes": 2148
+  },
+  {
+    "uri": "files/assets/39074172/1/continue-timer0029.png",
+    "status": 200,
+    "bytes": 2107
+  },
+  {
+    "uri": "files/assets/39074173/1/continue-timer0027.png",
+    "status": 200,
+    "bytes": 2102
+  },
+  {
+    "uri": "files/assets/39074174/1/continue-timer0031.png",
+    "status": 200,
+    "bytes": 2022
+  },
+  {
+    "uri": "files/assets/39074175/1/continue-timer0032.png",
+    "status": 200,
+    "bytes": 2014
+  },
+  {
+    "uri": "files/assets/39074176/1/continue-timer0030.png",
+    "status": 200,
+    "bytes": 2068
+  },
+  {
+    "uri": "files/assets/39074177/1/continue-timer0033.png",
+    "status": 200,
+    "bytes": 2008
+  },
+  {
+    "uri": "files/assets/39074178/1/continue-timer0034.png",
+    "status": 200,
+    "bytes": 1979
+  },
+  {
+    "uri": "files/assets/39074179/1/continue-timer0035.png",
+    "status": 200,
+    "bytes": 1960
+  },
+  {
+    "uri": "files/assets/39074180/1/continue-timer0037.png",
+    "status": 200,
+    "bytes": 1926
+  },
+  {
+    "uri": "files/assets/39074181/1/continue-timer0036.png",
+    "status": 200,
+    "bytes": 1940
+  },
+  {
+    "uri": "files/assets/39074182/1/continue-timer0038.png",
+    "status": 200,
+    "bytes": 1896
+  },
+  {
+    "uri": "files/assets/39074183/1/continue-timer0039.png",
+    "status": 200,
+    "bytes": 1874
+  },
+  {
+    "uri": "files/assets/39074184/1/continue-timer0040.png",
+    "status": 200,
+    "bytes": 1815
+  },
+  {
+    "uri": "files/assets/39074185/1/continue-timer0041.png",
+    "status": 200,
+    "bytes": 1827
+  },
+  {
+    "uri": "files/assets/39074186/1/continue-timer0042.png",
+    "status": 200,
+    "bytes": 1850
+  },
+  {
+    "uri": "files/assets/39074187/1/continue-timer0043.png",
+    "status": 200,
+    "bytes": 1816
+  },
+  {
+    "uri": "files/assets/39074188/1/continue-timer0044.png",
+    "status": 200,
+    "bytes": 1841
+  },
+  {
+    "uri": "files/assets/39074189/1/continue-timer0045.png",
+    "status": 200,
+    "bytes": 1845
+  },
+  {
+    "uri": "files/assets/39074190/1/continue-timer0047.png",
+    "status": 200,
+    "bytes": 1809
+  },
+  {
+    "uri": "files/assets/39074191/1/continue-timer0046.png",
+    "status": 200,
+    "bytes": 1823
+  },
+  {
+    "uri": "files/assets/39074192/1/continue-timer0048.png",
+    "status": 200,
+    "bytes": 1799
+  },
+  {
+    "uri": "files/assets/39074193/1/continue-timer0050.png",
+    "status": 200,
+    "bytes": 1779
+  },
+  {
+    "uri": "files/assets/39074194/1/continue-timer0049.png",
+    "status": 200,
+    "bytes": 1840
+  },
+  {
+    "uri": "files/assets/39074195/1/continue-timer0051.png",
+    "status": 200,
+    "bytes": 1753
+  },
+  {
+    "uri": "files/assets/39074197/1/continue-timer0052.png",
+    "status": 200,
+    "bytes": 1762
+  },
+  {
+    "uri": "files/assets/39074196/1/continue-timer0053.png",
+    "status": 200,
+    "bytes": 1735
+  },
+  {
+    "uri": "files/assets/39074198/1/continue-timer0054.png",
+    "status": 200,
+    "bytes": 1768
+  },
+  {
+    "uri": "files/assets/39074199/1/continue-timer0055.png",
+    "status": 200,
+    "bytes": 1738
+  },
+  {
+    "uri": "files/assets/39074200/1/continue-timer0056.png",
+    "status": 200,
+    "bytes": 1682
+  },
+  {
+    "uri": "files/assets/39074201/1/continue-timer0057.png",
+    "status": 200,
+    "bytes": 1676
+  },
+  {
+    "uri": "files/assets/39074202/1/continue-timer0058.png",
+    "status": 200,
+    "bytes": 1639
+  },
+  {
+    "uri": "files/assets/39074203/1/continue-timer0060.png",
+    "status": 200,
+    "bytes": 1605
+  },
+  {
+    "uri": "files/assets/39074204/1/continue-timer0059.png",
+    "status": 200,
+    "bytes": 1604
+  },
+  {
+    "uri": "files/assets/39074205/1/continue-timer0061.png",
+    "status": 200,
+    "bytes": 1528
+  },
+  {
+    "uri": "files/assets/39074206/1/continue-timer0062.png",
+    "status": 200,
+    "bytes": 1587
+  },
+  {
+    "uri": "files/assets/39074207/1/continue-timer0064.png",
+    "status": 200,
+    "bytes": 1580
+  },
+  {
+    "uri": "files/assets/39074208/1/continue-timer0063.png",
+    "status": 200,
+    "bytes": 1600
+  },
+  {
+    "uri": "files/assets/39074209/1/continue-timer0065.png",
+    "status": 200,
+    "bytes": 1566
+  },
+  {
+    "uri": "files/assets/39074210/1/continue-timer0066.png",
+    "status": 200,
+    "bytes": 1555
+  },
+  {
+    "uri": "files/assets/39074211/1/continue-timer0067.png",
+    "status": 200,
+    "bytes": 1532
+  },
+  {
+    "uri": "files/assets/39074212/1/continue-timer0068.png",
+    "status": 200,
+    "bytes": 1498
+  },
+  {
+    "uri": "files/assets/39074213/1/continue-timer0070.png",
+    "status": 200,
+    "bytes": 1398
+  },
+  {
+    "uri": "files/assets/39074214/1/continue-timer0069.png",
+    "status": 200,
+    "bytes": 1419
+  },
+  {
+    "uri": "files/assets/39074215/1/continue-timer0071.png",
+    "status": 200,
+    "bytes": 1360
+  },
+  {
+    "uri": "files/assets/39074216/1/continue-timer0073.png",
+    "status": 200,
+    "bytes": 1278
+  },
+  {
+    "uri": "files/assets/39074217/1/continue-timer0072.png",
+    "status": 200,
+    "bytes": 1299
+  },
+  {
+    "uri": "files/assets/39074218/1/continue-timer0074.png",
+    "status": 200,
+    "bytes": 1244
+  },
+  {
+    "uri": "files/assets/39074219/1/continue-timer0075.png",
+    "status": 200,
+    "bytes": 1203
+  },
+  {
+    "uri": "files/assets/39074220/1/continue-timer0076.png",
+    "status": 200,
+    "bytes": 1163
+  },
+  {
+    "uri": "files/assets/39074221/1/continue-timer0077.png",
+    "status": 200,
+    "bytes": 1130
+  },
+  {
+    "uri": "files/assets/39074222/1/continue-timer0078.png",
+    "status": 200,
+    "bytes": 1106
+  },
+  {
+    "uri": "files/assets/39074223/1/continue-timer0080.png",
+    "status": 200,
+    "bytes": 935
+  },
+  {
+    "uri": "files/assets/39074224/1/continue-timer0079.png",
+    "status": 200,
+    "bytes": 1062
+  },
+  {
+    "uri": "files/assets/39074225/1/continue-timer0081.png",
+    "status": 200,
+    "bytes": 1015
+  },
+  {
+    "uri": "files/assets/39074227/1/continue-timer0083.png",
+    "status": 200,
+    "bytes": 977
+  },
+  {
+    "uri": "files/assets/39074226/1/continue-timer0082.png",
+    "status": 200,
+    "bytes": 1019
+  },
+  {
+    "uri": "files/assets/39074228/1/continue-timer0084.png",
+    "status": 200,
+    "bytes": 952
+  },
+  {
+    "uri": "files/assets/39074230/1/continue-timer0086.png",
+    "status": 200,
+    "bytes": 949
+  },
+  {
+    "uri": "files/assets/39074229/1/continue-timer0085.png",
+    "status": 200,
+    "bytes": 962
+  },
+  {
+    "uri": "files/assets/39074231/1/continue-timer0087.png",
+    "status": 200,
+    "bytes": 898
+  },
+  {
+    "uri": "files/assets/39074232/1/continue-timer0088.png",
+    "status": 200,
+    "bytes": 905
+  },
+  {
+    "uri": "files/assets/39074233/1/continue-timer0089.png",
+    "status": 200,
+    "bytes": 873
+  },
+  {
+    "uri": "files/assets/39074234/1/continue-timer0090.png",
+    "status": 200,
+    "bytes": 908
+  },
+  {
+    "uri": "files/assets/39074235/1/continue-timer0091.png",
+    "status": 200,
+    "bytes": 876
+  },
+  {
+    "uri": "files/assets/39074236/1/continue-timer0092.png",
+    "status": 200,
+    "bytes": 849
+  },
+  {
+    "uri": "files/assets/39074237/1/continue-timer0093.png",
+    "status": 200,
+    "bytes": 855
+  },
+  {
+    "uri": "files/assets/39074238/1/continue-timer0095.png",
+    "status": 200,
+    "bytes": 880
+  },
+  {
+    "uri": "files/assets/39074240/1/continue-timer0096.png",
+    "status": 200,
+    "bytes": 843
+  },
+  {
+    "uri": "files/assets/39074239/1/continue-timer0094.png",
+    "status": 200,
+    "bytes": 883
+  },
+  {
+    "uri": "files/assets/39074241/1/continue-timer0097.png",
+    "status": 200,
+    "bytes": 798
+  },
+  {
+    "uri": "files/assets/39074242/1/continue-timer0098.png",
+    "status": 200,
+    "bytes": 779
+  },
+  {
+    "uri": "files/assets/39074243/1/continue-timer0099.png",
+    "status": 200,
+    "bytes": 750
+  },
+  {
+    "uri": "files/assets/39074244/1/continue-timer0100.png",
+    "status": 200,
+    "bytes": 676
+  },
+  {
+    "uri": "files/assets/39074245/1/continue-timer0101.png",
+    "status": 200,
+    "bytes": 579
+  },
+  {
+    "uri": "files/assets/195787694/1/barrasuperior-1_portraitP1.png",
+    "status": 200,
+    "bytes": 18053
+  },
+  {
+    "uri": "files/assets/195787695/1/barrasuperior-2_portraitP2.png",
+    "status": 200,
+    "bytes": 1808
+  },
+  {
+    "uri": "files/assets/195787696/1/barrasuperior-1Portraitp2.png",
+    "status": 200,
+    "bytes": 17934
+  },
+  {
+    "uri": "files/assets/195872290/1/contador-monedas.png",
+    "status": 200,
+    "bytes": 2454
+  },
+  {
+    "uri": "files/assets/195872293/1/cue_tables_slot.png",
+    "status": 200,
+    "bytes": 2345
+  },
+  {
+    "uri": "files/assets/195872292/1/cue_tables_back.png",
+    "status": 200,
+    "bytes": 5196
+  },
+  {
+    "uri": "files/assets/195872295/1/boton-shop.png",
+    "status": 200,
+    "bytes": 12838
+  },
+  {
+    "uri": "files/assets/195872296/1/cue_tables_titulo.png",
+    "status": 200,
+    "bytes": 10913
+  },
+  {
+    "uri": "files/assets/195872297/1/cue_tables_btn-equipar.png",
+    "status": 200,
+    "bytes": 5309
+  },
+  {
+    "uri": "files/assets/195872298/1/cue_tables_btn-comprar.png",
+    "status": 200,
+    "bytes": 4733
+  },
+  {
+    "uri": "files/assets/195872299/1/cue_tables_barrasuperior.png",
+    "status": 200,
+    "bytes": 608
+  },
+  {
+    "uri": "files/assets/195872300/1/cue_tables_selector.png",
+    "status": 200,
+    "bytes": 1336
+  },
+  {
+    "uri": "files/assets/195872301/1/cue_tables_btn-equiped.png",
+    "status": 200,
+    "bytes": 6063
+  },
+  {
+    "uri": "files/assets/195873387/1/taco1.png",
+    "status": 200,
+    "bytes": 6159
+  },
+  {
+    "uri": "files/assets/195873388/1/taco6.png",
+    "status": 200,
+    "bytes": 15898
+  },
+  {
+    "uri": "files/assets/195873389/1/taco4.png",
+    "status": 200,
+    "bytes": 20209
+  },
+  {
+    "uri": "files/assets/195873390/1/taco2.png",
+    "status": 200,
+    "bytes": 9594
+  },
+  {
+    "uri": "files/assets/195873391/1/taco5.png",
+    "status": 200,
+    "bytes": 15243
+  },
+  {
+    "uri": "files/assets/195873392/1/taco3.png",
+    "status": 200,
+    "bytes": 15581
+  },
+  {
+    "uri": "files/assets/195873393/1/mesa1.png",
+    "status": 200,
+    "bytes": 46910
+  },
+  {
+    "uri": "files/assets/195873394/1/mesa5.png",
+    "status": 200,
+    "bytes": 42320
+  },
+  {
+    "uri": "files/assets/195873395/1/mesa4.png",
+    "status": 200,
+    "bytes": 45902
+  },
+  {
+    "uri": "files/assets/195873396/1/mesa2.png",
+    "status": 200,
+    "bytes": 45045
+  },
+  {
+    "uri": "files/assets/195873397/1/mesa6.png",
+    "status": 200,
+    "bytes": 61995
+  },
+  {
+    "uri": "files/assets/195873398/1/mesa3.png",
+    "status": 200,
+    "bytes": 68610
+  },
+  {
+    "uri": "files/assets/195900527/1/poolmenus.png",
+    "status": 200,
+    "bytes": 109540
+  },
+  {
+    "uri": "files/assets/195906424/1/pooltaco5.json",
+    "status": 200,
+    "bytes": 87147
+  },
+  {
+    "uri": "files/assets/195906426/1/pooltaco2.json",
+    "status": 200,
+    "bytes": 60615
+  },
+  {
+    "uri": "files/assets/195906427/1/pooltaco4.json",
+    "status": 200,
+    "bytes": 95317
+  },
+  {
+    "uri": "files/assets/195906428/1/pooltaco6.json",
+    "status": 200,
+    "bytes": 84135
+  },
+  {
+    "uri": "files/assets/195906430/1/pooltaco3.json",
+    "status": 200,
+    "bytes": 116318
+  },
+  {
+    "uri": "files/assets/196023698/1/back.png",
+    "status": 200,
+    "bytes": 7699
+  },
+  {
+    "uri": "files/assets/196112119/1/Poolside%20Serenade%201.mp3",
+    "status": 200,
+    "bytes": 3308742
+  },
+  {
+    "uri": "files/assets/196118960/1/pool3_steam.jpg",
+    "status": 200,
+    "bytes": 196151
+  },
+  {
+    "uri": "files/assets/196118961/1/pool4_scifi.jpg",
+    "status": 200,
+    "bytes": 199832
+  },
+  {
+    "uri": "files/assets/196118962/1/pool1_base.jpg",
+    "status": 200,
+    "bytes": 208652
+  },
+  {
+    "uri": "files/assets/196118963/1/pool2_woods.jpg",
+    "status": 200,
+    "bytes": 208731
+  },
+  {
+    "uri": "files/assets/196118964/1/pool5_castle.jpg",
+    "status": 200,
+    "bytes": 189837
+  },
+  {
+    "uri": "files/assets/197735927/1/time.png",
+    "status": 200,
+    "bytes": 3621
+  },
+  {
+    "uri": "files/assets/197735942/1/barrasuperior-2-portrait.png",
+    "status": 200,
+    "bytes": 7969
+  },
+  {
+    "uri": "files/assets/197735943/1/timeExt.png",
+    "status": 200,
+    "bytes": 3844
+  },
+  {
+    "uri": "files/assets/196112118/1/Poolside%20Serenade%202.mp3",
+    "status": 200,
+    "bytes": 3238943
+  },
+  {
+    "uri": "files/assets/39074142/1/nothanks.png",
+    "status": 200,
+    "bytes": 8480
+  },
+  {
+    "uri": "files/assets/39036462/1/barrapower-tapador.png",
+    "status": 200,
+    "bytes": 5743
+  },
+  {
+    "uri": "files/assets/39036319/1/ammo.js",
+    "status": 200,
+    "bytes": 1812192
+  },
+  {
+    "uri": "files/assets/196118965/1/pool6_egypt.jpg",
+    "status": 200,
+    "bytes": 317390
+  }
+]

@@ -1,0 +1,1516 @@
+{
+  "offlineTest": false,
+  "state": "{\"title\":\"Poki 9 Balls Pool V2\",\"text\":\"\",\"canvases\":[{\"width\":1000,\"height\":700}],\"runner\":null,\"pc\":true}",
+  "errors": [],
+  "failed": [],
+  "requests": [
+    {
+      "url": "http://localhost:18774/",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/styles.css",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/__remote/game-cdn.poki.com/scripts/v2/poki-sdk.js",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/__settings__.js",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/__modules__.js",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/__start__.js",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/__loading__.js",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/playcanvas-stable.min.js",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/__remote/game-cdn.poki.com/scripts/eaa5e71ba816bc70b0d49514e38ab8f23df7c63c/poki-sdk-core-eaa5e71ba816bc70b0d49514e38ab8f23df7c63c.js",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/manifest.json",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036121/1/ammo.wasm.js",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/logo.png",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035998/1/ammo.wasm.wasm",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/config.json",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/__game-scripts.js",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035940/1/barrasuperior-1.png?t=fb8025082a9dc4e5880e436f0497e83a",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035941/1/boton-playagain.png?t=58fb91b2984369d6647336f552ab2b64",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035942/1/HUD-superior---siguientebola.png?t=2936944cce0f47862208b8c791155e7a",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035943/1/slot-bola-masse.png?t=ff11f5f64808f418350cd4c938982a8a",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035944/1/oscurecedor.png?t=11f609be3ec4322bab182ca2fbad6452",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035947/1/barrasuperior-2.png?t=cd5090b940a277040b416b156c9b719d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035946/1/sound-on.png?t=3e1995266925fc95af437467c36199cd",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035948/1/cortina-abajo.png?t=094d812b149ca45f81e427b74e6ad31d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035949/1/howtoplay.png?t=d7d5d38a476ed7ded3777778cd58733e",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035953/1/sound-off.png?t=8a5ca710bafe12d3a4e2d7dfbff34012",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035950/1/cortina-arriba.png?t=6ee0cdf57f6ec3526575e97e576dd4c1",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035954/1/boton-mace.png?t=decdc129f943c2c6ee41f40b6c69f1ba",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035957/1/tutorial-cerrar.png?t=5bfd2976110c12558fc459c68ed9db4a",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035969/1/trick-3.png?t=e52beed4b2fa1d1dd6b8911d98c76a0f",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035963/1/trick-2.png?t=22637db89fd7cbe764d20bf5c6aa2bd9",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035977/1/logo.png?t=20020d4e7097f1d4bb6bc5f6d84c38ec",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035981/1/UI-bola8.png?t=a9f81f6e048b0e97f8971583d2731ebb",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035993/1/cubano-regular-webfont.png?t=ab5a1c8a4802573559dc27e3d70a2680",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035986/1/camar.json?t=cd5df61f7bf85a2ae65c2c27f6df0a74",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035995/1/finTurno.mp3?t=405affeffb70cd209ea6a170596c0241",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036000/1/metebola.mp3?t=f45d49bb04d55bf455cf97c4c7f1c2f9",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035999/1/bola%20colision%20fuerte.mp3?t=b6f28a3ee9c439273a509dde0da8ff96",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036008/1/siluetas.png?t=028359fd9ac261611e0a34c052787b4b",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036002/1/plano-lineablanca.png?t=10b04479028cb8ac1279871ed10931fb",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036007/1/tacos%20y%20mesas%20boton.mp3?t=a81ac3fd8b70f9ef3f0d91da9870209a",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036006/1/pasar%20turno.mp3?t=b8bd34fb5726d3bdef75831f63722235",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036009/1/hud-masse-bola-puntoGUI.png?t=9f5cb0925a7b4c866febd1e015828ed0",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036011/1/bola%20colision%20media.mp3?t=3c8f2b2702995cf0064c1539a97905fe",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036023/1/hud-masse-bola-punto.png?t=b43a5e8304f88f5f664def7f5da6f48f",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036017/1/menu%20botones%20click%20singleplayer-multiplayer.mp3?t=b3bd50b1f439e12082cdb9f04224aeb1",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036030/1/bola12.png?t=401038b9a523cacad2bd9f0058af9a54",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036027/1/luz.png?t=2fd10fd5722d7a495e5bbbace3bcf23f",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036026/1/bola15.png?t=15f6e447ba36b2fac2b1015d6d7b398d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036036/1/boton%20retroceder.mp3?t=900a48011fd40ac8cf3e372133dd92a3",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036038/1/victoria.mp3?t=89ce21f5f7ccb9149c6e58cd334adef0",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036033/1/error%20compra%20tienda.mp3?t=97d8251cf5fe19f13d7c3d871b7abaaf",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036040/1/derrota.mp3?t=dddf74f46bad4a6def762b4ab9d3c734",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036039/1/pocket-circulo-segmentado.json?t=70fd0c171eb4c85c1c334c131aa92f98",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036041/1/apuntar.mp3?t=a19d1213112f85e15265221d11d9e1b3",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036044/1/bola4.png?t=a3ee72e96cf5788cb698aabbd8b0211e",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036042/1/sonido%20boton%20alternativo_2.mp3?t=d94675aaaa17238a89fcd739cb9bdaf3",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036051/1/linea-blanca.png?t=5558e4720f5723c284a623ca07ed0c7a",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036047/1/linea-4-12.png?t=5f5e00502dfcf0729cd2d094b7516492",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036049/1/linea-6-14.png?t=97b0fa8373051eeb6246b1d05c1aeb1d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036053/1/CIRCULO.png?t=fd4874f8e4559d3b8cab163947d9f690",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036054/1/UI-bola10.png?t=23ece6b277119f93e6b22813aa5945a8",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036058/1/UI-bola9.png?t=61dd412e917ff5eb59a8ffbdbc818f57",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036056/1/camara-punto2.json?t=17fb1445574d0e44acc5d794618b8a37",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036013/1/reflectgio8.png?t=54d3ee55d2decd9bdd5906d510df8cf6",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036067/1/UI-bola4.png?t=d3a24a5cb6092ad6813b17b804fcb4ab",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036068/1/pool%20taco.json?t=0af0a70e2abb72b02e385cf1131ffbf3",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036090/1/bola-sombra.json?t=c3ebf34b0ab0648eeec54d8378fd783c",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036101/1/compra%20tienda.mp3?t=8904f81c7dad12819aa4ab445184e049",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036015/1/icono-mouse.png?t=f57e44f7c3b125597ad1610f239369dd",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036109/1/resultado%20score.mp3?t=d6f6363c04a1794aee45a3e8a84424c5",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036113/1/pocket-medio-abajo.json?t=409259fc935b2d239ba85e7006dc407a",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036117/1/flechas-movewhite.json?t=1a54b81e711b70a55d19e4577e164735",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036116/1/UI-bola14.png?t=3d130928ac4a6a8ab60b3babb0c2a253",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036115/1/plano-apuntar-inicial.json?t=8be012ada05c3fd17145f6542dfe0989",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036119/1/panel-abajo.png?t=aecfb57760e824432fe366d31f164ce8",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036122/1/glow-mesa.png?t=3389cec0e498972f01bd763788dbf274",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036138/1/linea-5-13.png?t=53d5fd5793688d13432e2a36e2243b59",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036172/1/hud-masse-bolaGUI.png?t=f2a42f49a672406e7af8d95241e7deed",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036175/1/hud-superior-extensor.png?t=05d4f15f6f874475e27cc866882bb07f",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036176/1/WIN01.mp3?t=4a458e950b0b7d5a164ec0f0093dfe42",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036178/1/TIC-pocotiempo.mp3?t=013ad27b83e940980349be28be17e036",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036183/1/soltarBlanca.mp3?t=7943a87ba9f8e1a428cc67ae5c898440",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036179/1/tomaBlanca.mp3?t=45d563bf43ac6de4cdc7dc9f2f6bef57",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036190/1/UI-bola11.png?t=efe0b6c1f42c305bdb6ea840e64da888",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036191/1/UI-bola7.png?t=9f6b81feecc14143af2c92e2e81cf735",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036196/1/piso-fondo.png?t=17cf94f0dbc3126944da2dedead74ec7",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036194/1/gradienteBG.png?t=688cedf93b6ab62d3b5ab5d6d625afdf",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036197/1/UI-bola2.png?t=76b6e7ad16842bde5530550474a9c5a4",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036198/1/bola8.png?t=f68c67f49c7a66c329273de770f288f5",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036200/1/plano-apuntarC.json?t=cefd8c779a877d943ec45f5e1acf303f",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036201/1/bola%20colision%20debil.mp3?t=674cbd0494fb4e446d7527d7c1523140",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036202/1/hud-masse-oscurecedor.png?t=1377f9e8ce52f0af5729fa7f1d847d9e",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036208/1/camara-punto1.json?t=f820ca38afcded64e50858128b1049c0",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036206/1/bola13.png?t=d240ce069ea0f68d26bbd91b8e5c7560",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036209/1/UI-bola6.png?t=72749ab07c166e30053679030a600e2c",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036211/1/UI-bola12.png?t=f8d9edea8612c833440c8ee5d9bb7175",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036212/1/UI-bola3.png?t=95beec4185cde594231911423ec61092",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036213/1/bola9.png?t=9acd58e40eec4af9f7ed2b6f7ddc1de9",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036215/1/bola5.png?t=3b517dd94903a850daac7a1b1be20158",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036216/1/bola2.png?t=85226e381d59d06453a3429e1a4e8172",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036217/1/bola3.png?t=01baf3be8105eb15d90477ce0ee33d83",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036219/1/bola14.png?t=fb7529f3cd449b64f5ac4e479a54d11d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036232/1/indicador-circulo.json?t=8df32986a4dfc06fdb34f052c98f0225",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036241/1/sonido%20on_off%20(2).mp3?t=93aba6e6b83ff83e7cd782b6f7dbca38",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036237/1/primer%20golpe%20a%20bolas.mp3?t=739b59b96cadeda3a0c6d541bfe197f2",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036243/1/pocket-derecha-abajo.json?t=25eee8bef79d12148e7ce29d25389f73",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036244/1/linea-1-9.png?t=a0a5d7f6cdbbb6717d72b3972bec53ef",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036245/1/reflectgio5.png?t=547f117d3073385a3e94a2b53468ed02",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036246/1/linea-8.png?t=e6e63abba8312d501a8db4a73901ac6d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036248/1/bola11.png?t=ee15bad3f7ecf114b1dd3e41e9b88a85",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036251/1/tutorial-dedo.png?t=d671be79fe4365ec172ba79bf03a57aa",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036254/1/bola7.png?t=7e10565685f2180b4b1d4cefcc6cfcee",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036255/1/oscurecedor.png?t=1818e693b2fc9fe346a28b765684cfd4",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036256/1/bola6.png?t=d2ad8caa00edf3b6f647f99810d6a846",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036258/1/sombraB.png?t=3a32ea79b16610487fef8af894d3c344",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036259/1/bola1.png?t=9b91ebb26208419cc4a0ef2c95319acf",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036267/1/bola10.png?t=5f54af0e19baf506098b23e5defb6cf1",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036261/1/bola-blanca.png?t=247d509066ccb9dfa24a139defa20582",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036272/1/taco%20golpea%20bola-debil.mp3?t=09f4fecae149a72335acfb7967b60481",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036279/1/taco%20golpea%20bola-fuerte.mp3?t=1870fd0927eb54657c4a5237036e4555",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036281/1/linea-7-15.png?t=c5dccf9f33e4b041fae5afcc150caa4a",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036284/1/linea-2-10.png?t=25fc96be099bd3904df3068f63c2703f",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036291/1/hud-masse-bola.png?t=4d46c0f7579cbaefa98a5830ba4183fb",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036293/1/linea-3-11.png?t=581a2f4984eee0b6001563f47174c50d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036297/1/UI-bola13.png?t=3f471de8f9b1940f3a2364c7732182bc",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036300/1/UI-bola15.png?t=9953a909ac06ea14a148a7debc019e7c",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036299/1/UI-bola5.png?t=992d6f7556560dfbf453d2f2537b59c5",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036302/1/pocket-izquierda-arriba.json?t=eaa7fc125751fda24e65ccd2bb782243",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036304/1/escenamain.json?t=6dd322ccb38f79b46fcb4efed2347a9d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036301/1/glow-mesacompleta.json?t=dc7c7335eb8f3805c9efa77690c09b3b",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036310/1/plano-apuntar-baseC.json?t=6c2149bea44dc649777f8202a9c85d8e",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036307/1/pocket-derecha-arriba.json?t=b69cb5d705e7e9ec86a72bd0da858e57",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036311/1/pocket-circulo-segmentado.png?t=648681ed089781c1789b438a23d0d8e1",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036312/1/glow-inicial.json?t=cab1b7006078076d325a5cab8ee024d7",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036313/1/pocket-izquierda-abajo.json?t=5216f025a7c3422cd0205959350f42f5",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036315/1/text%20pools%20tac.png?t=0362880addac9f2743783c92d0dbfddd",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036316/1/pocket-medio-arriba.json?t=ba3a3de1babc572a85486b99a17cdb9b",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036317/1/topes.png?t=f68c498bad193ac9cafeceb6f5ac37f7",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036318/1/tapador.json?t=ac0c19ebdacb03d8c11b9f261c0a59df",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036320/1/UI-bola1.png?t=8bf7e754e23c89a4c8d09d4a2bff5475",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036321/1/oscurecedor-opciones.png?t=002189c4b9fccf716608459409bb1bf1",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036453/1/mesa.png?t=4c399130c984b739f49ba238f6902e9a",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036457/1/barrapower-taco.png?t=678094c3535f5577765200195c43bb28",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036455/1/bals.png?t=bea7a6bee5d3808fe32e744d0c192d8c",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036458/1/circulo-bolaX.png?t=7c828f032781e34e5c89f80e426cec47",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036459/1/meteblanca.png?t=2b57e88be8494ebe6443a17eb515c9f1",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036465/1/barrapower-oscurecedor.png?t=628d2c6377e57a56ca32210b0b85ca1d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036466/1/barrapower-base.png?t=e94e2427499f02b5d7f37f5e8e4b0d75",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036468/1/indicador-nextball.json?t=fb73672177a345f865fac659bbee0d5e",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036470/1/taptoplay-eng.png?t=9d851a1d70fa4d147e4848dcf48a3383",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036482/1/rdygo0001.png?t=7be53c8e76d426179cbd0a8d7e8c9576",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036484/1/rdygo0007.png?t=665ddb4b16246eb200eedb3f74e0ce40",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036485/1/rdygo0003.png?t=1a3fcb6cbfa56bdbdd60b930685f391e",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036486/1/rdygo0004.png?t=94778ce105adb2cbb4a89cb4bd70988f",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036487/1/rdygo0012.png?t=1e5bc47c320ee2373b385946556a938b",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036488/1/rdygo0015.png?t=73d1b0648edc7df90aa61f810cf5e9fe",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036489/1/rdygo0016.png?t=c4c79435cb16660525c4012bf9baa874",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036490/1/rdygo0019.png?t=ce095fcd2724f04854b363ebf4ce93f3",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036491/1/rdygo0017.png?t=18ff2b7e149526a834ab4e2d1c203964",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036492/1/rdygo0024.png?t=9f03e1155183be8112a4d2d5970a11e1",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036493/1/rdygo0002.png?t=ce3a48432b78fd3f7201b11654f7f377",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036494/1/rdygo0014.png?t=d7d457a31d23e3fc9430fd00e83ca85f",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036496/1/rdygo0037.png?t=cb1e0d3d71d93b68749f314da41978e5",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036495/1/rdygo0036.png?t=d5096434fcc4ea39b06449249417fec1",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036499/1/rdygo0028.png?t=e8bde5b3feab4bb601f7b18612ae514d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036497/1/rdygo0008.png?t=3156e7c39ee9ef665e0ec9f8abd1fcfb",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036498/1/rdygo0020.png?t=0fe1887d54813a30c009b14e065d7560",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036501/1/rdygo0039.png?t=74aed23a07822bea4d699fdd8fe07dd0",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036500/1/rdygo0031.png?t=a53e76a259f38470f5bafb2db0ada3cf",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036502/1/rdygo0011.png?t=f4e6b60ed10ae452650ec8726f38d020",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036503/1/rdygo0018.png?t=f1f04bff6fd9a2ea94e8dd63a24decbb",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036504/1/rdygo0005.png?t=8de5452e8f17668ac12da46a9f98cb28",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036505/1/rdygo0027.png?t=8e3733f2abc2226c1e3490736f2c613f",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036506/1/rdygo0010.png?t=a5c7a3a58f47b9872f4086e5f9b87398",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036507/1/rdygo0009.png?t=eb42094a4df34cb6063a17a47091c85d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036508/1/rdygo0026.png?t=494c77cba074018141c7aa5c638a8045",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036510/1/rdygo0013.png?t=ea064319696ca7f8ea0631e7d2accf6a",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036509/1/rdygo0034.png?t=db751cba219138edfa07017566f64fce",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036511/1/rdygo0006.png?t=2b78181f1952274d4d3267dfca4bba9e",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036512/1/rdygo0021.png?t=904cde260b861010a6461d1feac0b4ab",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036513/1/rdygo0035.png?t=168fa410611344bbb478f1a6973abf56",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036514/1/rdygo0023.png?t=e1a78a6ffbd8149a71709efadf4513d5",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036515/1/rdygo0030.png?t=2547178ef4ee53aa0c2cefaea13703c7",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036516/1/rdygo0022.png?t=b6d64570eb830dd77b552666dbe5d904",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036517/1/rdygo0038.png?t=3f20ed562e607133e218671ff9fb3262",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036519/1/rdygo0032.png?t=630e71881419887b70e281b15e33842c",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036518/1/rdygo0025.png?t=b8b33a4d1e85860d83e2d152d9e5b078",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036520/1/rdygo0033.png?t=4f49ab6d217cb6b65745588a714a71a9",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036521/1/rdygo0042.png?t=f015128a31556df5baa9f86114274be4",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036523/1/rdygo0040.png?t=34122c7d5b719d7fec91f887395cd56a",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036522/1/rdygo0029.png?t=f70006c512e76461e3f615f9f024f697",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036524/1/rdygo0041.png?t=fb1c4b80362cab17fafdbb8f3349282b",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036526/1/rdygo0043.png?t=c5733c3b80fdc9d59d6ceb1463c9b2c5",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036530/1/tocabola-3.png?t=873aa79ddaae56ff62b3e16af826b553",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036532/1/tocabola-2.png?t=d464a6fbdf56af29c33a540ba8866702",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036534/1/metabola-10.png?t=9d1f581435d26850ee3c8deef929c68d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036533/1/metabola-22.png?t=68b86adc3d554749b4493d1993c3222f",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036537/1/perfect-100.png?t=7d48166f496a666fd753708859d82591",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036540/1/metabola-33.png?t=c89ec9ea88cace48456367991db0d484",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036539/1/metabola-11.png?t=3bae3f8814d73edeea11e5d47e82615f",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036541/1/tocabola-1.png?t=96ffce625ce2732face37b104691fb22",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036542/1/metebola-20.png?t=030cbd797a685d95167cd7c2a5a346ae",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036543/1/metabola-30.png?t=f4521bd5a6b3d6aa5de33e1af7918d7f",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036544/1/great-40.png?t=40a03d965c2324b5eb507a205411b433",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036547/1/incredible-200.png?t=b0b411253f584fec4c9e7a71390a79c2",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39044874/1/menupause.png?t=2e866acedf04e2ac3f748c751d85a1fe",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39044875/1/btn-howtoplay.png?t=7eebc8dde99b9bcb4a4af02aeb4a8a61",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39044876/1/resume.png?t=7c6af2f5627e3131ec9385e6cdffb198",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39044877/1/endgame.png?t=e5f33e2740e645d1a4553369ba10ef86",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39060876/1/pool%20mainmenu.mp3?t=03cb6d1c5e57b0d678255f845e9d5881",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074141/1/boton-arriba.png?t=1d26b98b54afa73d2e52b06e2851146a",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074143/1/boton-background.png?t=84e9379a7ba246bbfc95f5172e17ad06",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074146/1/continue-timer0003.png?t=652c7957d662b854348c6adb008d8237",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074145/1/continue-timer0001.png?t=002ebc62edd431690c17f65982a186d8",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074147/1/continue-timer0002.png?t=09670e4f2b4f7a43a500afc4ebd20344",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074148/1/continue-timer0007.png?t=0433225df7c1296ec0333c6d885a2880",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074149/1/continue-timer0006.png?t=77d916d5046b6b3b99750c2e13aaec65",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074150/1/continue-timer0004.png?t=80e6bb971bc0414b4f2fd074999342c1",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074151/1/continue-timer0005.png?t=beb6a717c27f77a0141a572b07e8521c",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074152/1/continue-timer0008.png?t=39452778bd34c10352e62d07082ec1bd",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074155/1/continue-timer0011.png?t=562a7ef4166a813812a7cb07869a781d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074154/1/continue-timer0010.png?t=5ba0479286c2f9ba948259e42df5b8bd",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074153/1/continue-timer0009.png?t=76a96e66a884908d309c5d7959e85df6",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074156/1/continue-timer0012.png?t=ec9a2a9ebd1bb0d5c28806e548aeebf1",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074157/1/continue-timer0013.png?t=94b57d7114bd822022abefdcbbf35028",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074158/1/continue-timer0014.png?t=bb74eb9d81e3121403429c1f7cbf5257",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074160/1/continue-timer0016.png?t=da7cbfb87dbef972ec43303d11498178",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074159/1/continue-timer0015.png?t=4a784ab0a810c1cb11c894c5a1871f23",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074161/1/continue-timer0017.png?t=70405c66ea6309659499162a02a496a9",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074162/1/continue-timer0019.png?t=e67024cc657ad178e2e0cb4c5c4b75e7",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074163/1/continue-timer0020.png?t=723dbe1e1c0e5c7753841d03df8d3760",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074164/1/continue-timer0018.png?t=994c03df4194ca912fa86905453ef5e6",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074165/1/continue-timer0021.png?t=7f5554c6a9fd1e537c5317c40e940148",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074166/1/continue-timer0022.png?t=21b2c4a1ee7cfaa124fee9835d80ef3d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074167/1/continue-timer0023.png?t=4855b878eb25eb5c5a764ea96329f218",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074168/1/continue-timer0024.png?t=76cf8252ea5b391056f7c2ba85b4d683",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074169/1/continue-timer0025.png?t=292d751063562fbefba6e547542d8890",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074170/1/continue-timer0026.png?t=85a886b1592e7303f2d7a5efb5aec251",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074171/1/continue-timer0028.png?t=dfc3a697fb2d3781a0208810e397dde0",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074172/1/continue-timer0029.png?t=64f9a7f81432459d88b71a05ddb3f222",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074173/1/continue-timer0027.png?t=3ec73b7fbb7194007e19b058b9ae1d0f",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074174/1/continue-timer0031.png?t=a8bc7bbd2f0d673051ab30625d4391d8",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074175/1/continue-timer0032.png?t=381fa9adca7b38b9f3525a3a85efd4ab",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074176/1/continue-timer0030.png?t=b92bd1bb9118baf4b31f01acdb397f79",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074177/1/continue-timer0033.png?t=5bd792455b97f6d9d34a69ec53648358",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074178/1/continue-timer0034.png?t=83c996dd9c673ccca8cedc4bff8b6dae",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074179/1/continue-timer0035.png?t=d9d247552274ec02a9026e9a01389179",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074180/1/continue-timer0037.png?t=0fb7017fd09b9ed545d3f5c3c30ce31d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074181/1/continue-timer0036.png?t=78f229ce852d3285dd8658c5f47a639d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074182/1/continue-timer0038.png?t=37890549ffe46d3f8e6d7c615121fa14",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074184/1/continue-timer0040.png?t=1e191df7692536cb2495e9415b6751f2",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074183/1/continue-timer0039.png?t=e3b8b355ba470d757171c9b0e054502e",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074185/1/continue-timer0041.png?t=f05660b5b74aa415dcebcd4d9649e1f5",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074186/1/continue-timer0042.png?t=7d0a029da5b61cf59d371a9267bc75f9",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074187/1/continue-timer0043.png?t=df9fcdcec1580063901bf9a31a220a95",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074188/1/continue-timer0044.png?t=4b24e02566225febff64d2493d0a16ad",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074189/1/continue-timer0045.png?t=8d07858a1a3c73b346fec47861e5e839",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074191/1/continue-timer0046.png?t=8a47977d926ca90ec1cef8e0e24815d1",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074190/1/continue-timer0047.png?t=69b87d50e87bd4a11f1b4e25e2d4c147",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074192/1/continue-timer0048.png?t=85e85cb6ec48755e2b77df2e43127c74",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074193/1/continue-timer0050.png?t=c237e1d36296ac942d60906a29c01967",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074194/1/continue-timer0049.png?t=ddc024e11f2b3134639fbc3c817b971b",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074195/1/continue-timer0051.png?t=59759001ca36087e74cb76f4c2703854",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074196/1/continue-timer0053.png?t=3e1d1aff2344516b40c4e840afe9be5d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074198/1/continue-timer0054.png?t=4e711291e5589ef166e0d598417cf4b2",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074197/1/continue-timer0052.png?t=b8e1aa1c7918563cf778135a0c514977",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074200/1/continue-timer0056.png?t=8f8badc85a88367c11d3fea6aa31780e",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074199/1/continue-timer0055.png?t=1a3a57b2dd48f4dbabdd3f2749cede0e",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074201/1/continue-timer0057.png?t=9cdda906bc2835225afd9a962301b0aa",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074202/1/continue-timer0058.png?t=bb84dc9cd2e03a801b08952e767aae2a",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074204/1/continue-timer0059.png?t=2af4c4de5c4a56dd11a7db3636c9099b",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074203/1/continue-timer0060.png?t=22429767e89219bd6b8537f2f3716954",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074206/1/continue-timer0062.png?t=845faed6468224c08080698389555f0d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074205/1/continue-timer0061.png?t=d2a626e270d8db5e514380b9e566eac7",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074207/1/continue-timer0064.png?t=4a98d13ab3d4c30987a1bc67e434133b",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074209/1/continue-timer0065.png?t=1fef41f3e189ad7c865ca1f324a93338",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074208/1/continue-timer0063.png?t=35b855db9f5b96beb47f9c42462bde87",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074210/1/continue-timer0066.png?t=413e8b47eb7f37fc7f559505d3bd347d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074212/1/continue-timer0068.png?t=dae17271339aa77814cb941e17892160",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074211/1/continue-timer0067.png?t=f1fdc4549ff210c2516a449f72f3d9d0",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074213/1/continue-timer0070.png?t=d2daf2b1a15bae8a5f22016a5330321c",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074214/1/continue-timer0069.png?t=41e74f133e0098c28addb468c949de4f",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074215/1/continue-timer0071.png?t=8683cf637cdd6318925f3a9bdb8fea2a",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074216/1/continue-timer0073.png?t=557247874f11dc8009a82a7b3e71d1f4",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074218/1/continue-timer0074.png?t=d64b9c28f01c188696533902d3567bc0",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074217/1/continue-timer0072.png?t=69048bf24af25dffef235ec5387213ec",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074219/1/continue-timer0075.png?t=d69a678b0592ddaba1e4d6f55868ce0c",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074221/1/continue-timer0077.png?t=a9c7ec5426a6df2c237c16d86aaf9e0e",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074220/1/continue-timer0076.png?t=aac256d10c4c4d906ba08c32a8ab3175",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074222/1/continue-timer0078.png?t=271305fffe1a5f48bb55838a50df708f",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074224/1/continue-timer0079.png?t=30ff305a8e542f950dfd8f89f1c95411",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074223/1/continue-timer0080.png?t=99fcad28f5ee8369090c3c7e01d19d7d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074225/1/continue-timer0081.png?t=0c2c319d5567e4953c7df1418047139c",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074227/1/continue-timer0083.png?t=5fd66970c507a4891310174e878e899c",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074226/1/continue-timer0082.png?t=8f5cfcf1a68fe8676fe9670570374068",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074228/1/continue-timer0084.png?t=c2db8ca3ec2257ff694dd6b3a0c22a99",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074229/1/continue-timer0085.png?t=8eca8ef51ae449ccb233f61929693b4c",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074230/1/continue-timer0086.png?t=703ea941190c214615d99fe884a92230",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074231/1/continue-timer0087.png?t=ac0a227403aaeca809811e55412a320f",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074233/1/continue-timer0089.png?t=4aeec01b8dd341f8bb844630c76b269b",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074232/1/continue-timer0088.png?t=88bf6ef5fad45cbce628f79733275453",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074236/1/continue-timer0092.png?t=8065dcd97862b8fb2552428858817584",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074234/1/continue-timer0090.png?t=2c8186267223c4fc51e608f00c6eb60c",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074235/1/continue-timer0091.png?t=3d16bb450eef968d45ed29c29f501854",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074237/1/continue-timer0093.png?t=4e31abe0c066f8fa22fedbf3e394030e",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074239/1/continue-timer0094.png?t=c8694c3b2241e0b6c5d57a7a4fe4ae99",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074238/1/continue-timer0095.png?t=862bbbdd9f704e8a590a1bb372440d8c",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074241/1/continue-timer0097.png?t=c469bb5c221b625844f6eb8a25f29af6",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074240/1/continue-timer0096.png?t=2905f061a23e25e8bf26dd0c787a0ea7",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074242/1/continue-timer0098.png?t=bbe1d0440507cfe6e117eb6bce3a10de",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074243/1/continue-timer0099.png?t=47d066fdaef9aeabf3a88e2fb499ea72",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074245/1/continue-timer0101.png?t=574237b60aa2e06c67f13847f8a9844d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39074244/1/continue-timer0100.png?t=7570e1c0137b1391c3b338693bcd842c",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195787694/1/barrasuperior-1_portraitP1.png?t=0f5160a5972812350a2548815e2b0be9",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195787695/1/barrasuperior-2_portraitP2.png?t=9ba446739759af11f6a8c3eaa0159ddc",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195787696/1/barrasuperior-1Portraitp2.png?t=21484f48b478fcf650ece7fe59a85025",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195872290/1/contador-monedas.png?t=4ef57f3033ec7faf96a93083b97cf130",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195872292/1/cue_tables_back.png?t=954cc688c1fab64372963d145ca07339",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195872293/1/cue_tables_slot.png?t=d5da69188f5ab474fdd62e89ac694511",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195872295/1/boton-shop.png?t=d3fed94471fd6e4ca77ccdeb286d10c1",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195872296/1/cue_tables_titulo.png?t=15d45a2a7472e2bc9e1bb24b72b40ce2",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195872297/1/cue_tables_btn-equipar.png?t=96b288438ba941707fe9b95995d5fd87",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195872298/1/cue_tables_btn-comprar.png?t=6945a75693f005fc7be7509994b3b7b2",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195872299/1/cue_tables_barrasuperior.png?t=0e068f8414ff1e23d25a62aff39699fd",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195872300/1/cue_tables_selector.png?t=fe88b8cc4849e805b4dd22a3465816a9",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195872301/1/cue_tables_btn-equiped.png?t=632658d2b9ac23122236e6f0bbcbd4d7",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195873387/1/taco1.png?t=d20968770df40ec1d5f4afd692d229f1",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195873388/1/taco6.png?t=c86deecc26591a0a2543215addbf9f2d",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195873389/1/taco4.png?t=a2b477e568f4739f68d8065afaa7b04a",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195873390/1/taco2.png?t=62d2f6ef41558ab291838d0338328ec7",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195873391/1/taco5.png?t=26ae90648ca7eabaa6880f7f780d288e",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195873392/1/taco3.png?t=5fad17824872fb45fe56168d30ba20dd",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195873393/1/mesa1.png?t=5a339948ed1947ee0f1260ae29d490e4",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195873394/1/mesa5.png?t=de1e6bb54a0d2f21540c36e81d2aa01f",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195873395/1/mesa4.png?t=d16d721688f46190e5955fde1f8a7de5",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195873397/1/mesa6.png?t=dc37a2f6c199eeb49d89e3f6b9819b4c",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195873396/1/mesa2.png?t=b62c54d428a3a7698f72b726566b39e9",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195873398/1/mesa3.png?t=79a305972d00c09c7d234fdd5d40eb8b",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195906424/1/pooltaco5.json?t=0f3dd7c6731e13a60f6d1087ad949f9e",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195906427/1/pooltaco4.json?t=cac18f2a89cc5ce3203682e71b58cd49",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195906428/1/pooltaco6.json?t=c67934eabc8b75e07b305b85ef1a2d69",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195906426/1/pooltaco2.json?t=a8a2c7d5a47d204b6e071565eac28970",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195906430/1/pooltaco3.json?t=565688335958d540fdfaa1746da12504",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/197735927/1/time.png?t=4dcea05724cdce3ec3726b5c7f0c3ade",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/197735943/1/timeExt.png?t=a684f08cd147435655e65ff12f8cc0b2",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/197735942/1/barrasuperior-2-portrait.png?t=1a815ac6a75bc2e868afcbf84136be4b",
+      "status": 200
+    },
+    {
+      "url": "https://geo.poki.io/",
+      "status": 200
+    },
+    {
+      "url": "https://ads.poki.com/ads/settings?loc=",
+      "status": 200
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "status": 200
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "status": 200
+    },
+    {
+      "url": "https://a.poki-cdn.com/prebid/prebid_1782721530.js",
+      "status": 200
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/core/bridge3.797.1_en.html",
+      "status": 200
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/ppub_config?ippd=localhost%3A18774",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/1043025.json",
+      "status": 200
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202611040101/pubads_impl.js?cb=122882131",
+      "status": 200
+    },
+    {
+      "url": "https://pagead2.googlesyndication.com/omsdk/releases/live/omweb-v1.js",
+      "status": 200
+    },
+    {
+      "url": "https://s0.2mdn.net/instream/video/client.js",
+      "status": 200
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json?date=20261107",
+      "status": 200
+    },
+    {
+      "url": "https://a.poki-cdn.com/sdk/error-icons-v2.svg",
+      "status": 200
+    },
+    {
+      "url": "https://a.poki-cdn.com/sdk/hourglass-icons-v2.svg",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036273/1/tutorial-tapador-barrasuperior.png?t=d71d1d0d554b2a26f990e07b52258d7e",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/195900527/1/poolmenus.png?t=b93fb13fb70e7231af779e60d7a2c6fe",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/196023698/1/back.png?t=449d72ad04bbedd62e4250f3d3d4bb14",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035964/1/tutorial-PC.png?t=2552fcc46ec1e675a1c68f1e419b08e5",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035970/1/tutorial-mobile.png?t=6127b63cec0eba5e5e9d7b2c364293d6",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39035951/1/pool-mesa-D.json?t=1913174f04163063576a5ec1619b80db",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39036309/1/bola-pool.json?t=72c7a4c714fcdf330f41d266de6acfa4",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/196118962/1/pool1_base.jpg?t=2996af19d6aafa4daf1f0708ead26dbb",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/196118963/1/pool2_woods.jpg?t=daa39b2f5ec661b7ce3f632ae97e4257",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/196118960/1/pool3_steam.jpg?t=be7188b715172576ef5a52f17127448a",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/196118961/1/pool4_scifi.jpg?t=1591cf69c57ba42ce2bb3d27202938fd",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/196118964/1/pool5_castle.jpg?t=442b7751b0c62d5dba4c29066617ae71",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/196118965/1/pool6_egypt.jpg?t=0c57f5fa80db114fcee8a0f3362c2933",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/39060875/1/pool%20ingame.mp3?t=ceb0c1383e5402569c1b1ce61ff9be90",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/196112119/1/Poolside%20Serenade%201.mp3?t=1e892936aa3f237e72ecbca6425d90dd",
+      "status": 200
+    },
+    {
+      "url": "http://localhost:18774/files/assets/196112118/1/Poolside%20Serenade%202.mp3?t=1e934aad0cb02b0e829034ec125713db",
+      "status": 200
+    },
+    {
+      "url": "https://securepubads.g.doubleclick.net/pagead/managed/dict/m202611050101/gpt",
+      "status": 200
+    }
+  ]
+}

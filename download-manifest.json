@@ -1,0 +1,1877 @@
+{
+  "source": "https://835df227-0e2f-49fc-90cd-67396cbc4013.gdn.poki.com/ed95e682-9510-4fa7-abf3-28db2ebd4ec2/",
+  "fileCount": 374,
+  "totalBytes": 21338387,
+  "files": [
+    {
+      "path": "1043025.json",
+      "bytes": 583710,
+      "sha256": "b4f8ad8feafef168428035eed48a00e3e9d33f04832e7e1959b6d5f0af13473f"
+    },
+    {
+      "path": "config.json",
+      "bytes": 413361,
+      "sha256": "57e3db552ea39281cf8ff6bf5b1fd49812582d78f30a2900eadbef432b89f0b2"
+    },
+    {
+      "path": "files/assets/195787694/1/barrasuperior-1_portraitP1.png",
+      "bytes": 18053,
+      "sha256": "b6ed9384722cc0fd5620f54b105bd6555488cbe2273cec2dfd3df328b9d3e85f"
+    },
+    {
+      "path": "files/assets/195787695/1/barrasuperior-2_portraitP2.png",
+      "bytes": 1808,
+      "sha256": "ba101b76c34ab654cb582bbaeac3de0ef9f8e1e5db2154568e2ac2463d0bfe2e"
+    },
+    {
+      "path": "files/assets/195787696/1/barrasuperior-1Portraitp2.png",
+      "bytes": 17934,
+      "sha256": "2f1203d60bb6726bea2192fab9ee772d6151ee2fc1e58c09a79aca83001389d5"
+    },
+    {
+      "path": "files/assets/195872290/1/contador-monedas.png",
+      "bytes": 2454,
+      "sha256": "e3a993c8764dac35770532894901faf74e493252cec1e993640624bee21330f0"
+    },
+    {
+      "path": "files/assets/195872292/1/cue_tables_back.png",
+      "bytes": 5196,
+      "sha256": "581fc4d930f92f86d0665099e8601160cf4caf2916b52a0daace350b0a72daa6"
+    },
+    {
+      "path": "files/assets/195872293/1/cue_tables_slot.png",
+      "bytes": 2345,
+      "sha256": "58f5bc2b72d8584b327b8ffa69532b7ebf4b365125315921fbad99fd1ba34abe"
+    },
+    {
+      "path": "files/assets/195872295/1/boton-shop.png",
+      "bytes": 12838,
+      "sha256": "4f3acde56caef91a4f44abdd2c65efbe48697d3ff176867a38abfad9636c7ead"
+    },
+    {
+      "path": "files/assets/195872296/1/cue_tables_titulo.png",
+      "bytes": 10913,
+      "sha256": "3c94ace49667175a625864d083ac28bced91216bd3b3626c91acca686723cbd3"
+    },
+    {
+      "path": "files/assets/195872297/1/cue_tables_btn-equipar.png",
+      "bytes": 5309,
+      "sha256": "7a0e25dca885ccb029d68a9b1043710cec8c31f9363af6fd733380e3820386cd"
+    },
+    {
+      "path": "files/assets/195872298/1/cue_tables_btn-comprar.png",
+      "bytes": 4733,
+      "sha256": "89644d6d810af5621a24da85fc4c80f7e94385cc73924294aaa6941669521ae0"
+    },
+    {
+      "path": "files/assets/195872299/1/cue_tables_barrasuperior.png",
+      "bytes": 608,
+      "sha256": "3f3a5df2b5aaf5b29d398b7a8456e2e57c782a8c9dcfbb678ff1c66cbb8105ac"
+    },
+    {
+      "path": "files/assets/195872300/1/cue_tables_selector.png",
+      "bytes": 1336,
+      "sha256": "bf3ea06833e4d6f8f5f8a1c0b3aeccc2c288ce1cf0111a679c600da0dd379c16"
+    },
+    {
+      "path": "files/assets/195872301/1/cue_tables_btn-equiped.png",
+      "bytes": 6063,
+      "sha256": "e288ccb6f64c50b65fd3cc6fa136a2aac85bfbabe1223b69fe2eb6493fd63f35"
+    },
+    {
+      "path": "files/assets/195873387/1/taco1.png",
+      "bytes": 6159,
+      "sha256": "5e6afa96579adb87fcde6eb997f5e135ec4605deef9b1bd08b010ef7e4a3d140"
+    },
+    {
+      "path": "files/assets/195873388/1/taco6.png",
+      "bytes": 15898,
+      "sha256": "1172feb8b9f36dcd343dbb21a6ec3c1b4a8dc8ff362f7b7a2ccded42b6d6e27b"
+    },
+    {
+      "path": "files/assets/195873389/1/taco4.png",
+      "bytes": 20209,
+      "sha256": "2a652ee2d08e15dffb3881984e5754cba212073feadfd8dc0569d947df9c2618"
+    },
+    {
+      "path": "files/assets/195873390/1/taco2.png",
+      "bytes": 9594,
+      "sha256": "a5a7c44cc4d4ea8a16b5fc9aa925b363e4381fab12c94b2a2ba7c952387360d2"
+    },
+    {
+      "path": "files/assets/195873391/1/taco5.png",
+      "bytes": 15243,
+      "sha256": "f5deaf5fba6c8565a54ad5b49000bdd34912982437bb9d0955778eb5c316ca2c"
+    },
+    {
+      "path": "files/assets/195873392/1/taco3.png",
+      "bytes": 15581,
+      "sha256": "144de241c493456c9245739ce3c6d572a8f95ac8dcb4025afbd8227771f07bf3"
+    },
+    {
+      "path": "files/assets/195873393/1/mesa1.png",
+      "bytes": 46910,
+      "sha256": "e66763673aa276ccb5a8198bc35c7d02e0caa8a40aa8930375bd6b55d6600b70"
+    },
+    {
+      "path": "files/assets/195873394/1/mesa5.png",
+      "bytes": 42320,
+      "sha256": "cfa7bc4f28a55b64dcb944cc7473b0cb6d8f34cc381a4da91885fd8317fcfb22"
+    },
+    {
+      "path": "files/assets/195873395/1/mesa4.png",
+      "bytes": 45902,
+      "sha256": "d45cb178bb6935ea918771f65dbe018de79a9c1892cc111dcd65542aee7ec8ba"
+    },
+    {
+      "path": "files/assets/195873396/1/mesa2.png",
+      "bytes": 45045,
+      "sha256": "10e345b9be8d2f3ae29c0aa6d768c721acf3b1e2970957cffba58afd7d9b4201"
+    },
+    {
+      "path": "files/assets/195873397/1/mesa6.png",
+      "bytes": 61995,
+      "sha256": "fdd2f23df5df86a9bf5efd02c27a8fd578491ef4c4ac78080276126e1a832d5c"
+    },
+    {
+      "path": "files/assets/195873398/1/mesa3.png",
+      "bytes": 68610,
+      "sha256": "1e586c72f9e6dc7c418451fedf8ef8d1dce70aa427556b360efd6f6715bb23ee"
+    },
+    {
+      "path": "files/assets/195900527/1/poolmenus.png",
+      "bytes": 109540,
+      "sha256": "b5575ea8f144ef20ff51e82c09a849b048553b51a2e3c327529df101f8eea130"
+    },
+    {
+      "path": "files/assets/195906424/1/pooltaco5.json",
+      "bytes": 87147,
+      "sha256": "de5916c4028bd95cca5d326aca88bfae0ec2e2a740abdff90790af6a44f0e61c"
+    },
+    {
+      "path": "files/assets/195906426/1/pooltaco2.json",
+      "bytes": 60615,
+      "sha256": "1a4d3f1dbafef161947083ad27fd271e69a0e2ff097bd1aebf4ede6d559f453b"
+    },
+    {
+      "path": "files/assets/195906427/1/pooltaco4.json",
+      "bytes": 95317,
+      "sha256": "3ab451a9632781eb2ca37c6eb4c811aee9aa6aa38eda425fe9140276fafb961a"
+    },
+    {
+      "path": "files/assets/195906428/1/pooltaco6.json",
+      "bytes": 84135,
+      "sha256": "b8d21704ceec65c419dc8698080d869c86d626ebbcfa31ae4f2fcb0b85d2ef19"
+    },
+    {
+      "path": "files/assets/195906430/1/pooltaco3.json",
+      "bytes": 116318,
+      "sha256": "3bf357ecdb3f88bccfeac61c83f1a54b08f4f2c220653a851eeeae9784120a33"
+    },
+    {
+      "path": "files/assets/196023698/1/back.png",
+      "bytes": 7699,
+      "sha256": "963a150fa54c367d15eddf46608a0e477e455db6fcade3fd9a770d53e58024e0"
+    },
+    {
+      "path": "files/assets/196112118/1/Poolside Serenade 2.mp3",
+      "bytes": 3238943,
+      "sha256": "98f043c2b668290a3120c0f50268163752224ac9b151215c5d5d11368b9dfa74"
+    },
+    {
+      "path": "files/assets/196112119/1/Poolside Serenade 1.mp3",
+      "bytes": 3308742,
+      "sha256": "be00bfba3cc0f253772a645d9de9cd75b1f02066629689f3262a987df91ad43d"
+    },
+    {
+      "path": "files/assets/196118960/1/pool3_steam.jpg",
+      "bytes": 196151,
+      "sha256": "f40229e40113836fff8c1b90ce17625b967352e80e69ccca2977498248a75e5f"
+    },
+    {
+      "path": "files/assets/196118961/1/pool4_scifi.jpg",
+      "bytes": 199832,
+      "sha256": "fca01bd307555dd2b450797dcb7e153c0369440001738905bdc7151f016fde4e"
+    },
+    {
+      "path": "files/assets/196118962/1/pool1_base.jpg",
+      "bytes": 208652,
+      "sha256": "3118f60193bb082f23a11609f6d2417d3113b4aa85ed32f3c25a0aa90bae842f"
+    },
+    {
+      "path": "files/assets/196118963/1/pool2_woods.jpg",
+      "bytes": 208731,
+      "sha256": "69eeb74e145e3e31cae45b892664b331fceddf181f662c114eed4e4f0056ef76"
+    },
+    {
+      "path": "files/assets/196118964/1/pool5_castle.jpg",
+      "bytes": 189837,
+      "sha256": "aa4eee579ef377b636356b1be013448f8d74dac4b806f4eb0e1a3d216542b345"
+    },
+    {
+      "path": "files/assets/196118965/1/pool6_egypt.jpg",
+      "bytes": 317390,
+      "sha256": "016494a8ae29f60c1854b3c06e597ac737e41335feb93d8ad1701b5c110133f1"
+    },
+    {
+      "path": "files/assets/197735927/1/time.png",
+      "bytes": 3621,
+      "sha256": "4e5c130e5291c268a710738e3c670271c1afe55d023de35354e87eb1c1afaaae"
+    },
+    {
+      "path": "files/assets/197735942/1/barrasuperior-2-portrait.png",
+      "bytes": 7969,
+      "sha256": "99c0ecfa7dd507490e4b33ff97e42bce590593fafa3c95696883d405da35dfa3"
+    },
+    {
+      "path": "files/assets/197735943/1/timeExt.png",
+      "bytes": 3844,
+      "sha256": "16ba692d53988c59e417f5c01e7fdbf49b8775fa2010fcc83db79e05decdd8e7"
+    },
+    {
+      "path": "files/assets/39035940/1/barrasuperior-1.png",
+      "bytes": 8794,
+      "sha256": "8de379e2568bcfc7bac92f708a40c5ab0e059081b58ec39f5583e2e086c4c1f8"
+    },
+    {
+      "path": "files/assets/39035941/1/boton-playagain.png",
+      "bytes": 32213,
+      "sha256": "010be3c578678322a992b4b5438d8cecf4ee7bd913b3be9ef1b25f97457d6720"
+    },
+    {
+      "path": "files/assets/39035942/1/HUD-superior---siguientebola.png",
+      "bytes": 2241,
+      "sha256": "69b44da335adaaf187f9b2ca5a1b0f8d2631bb772f1995e84a598a3c20fd9651"
+    },
+    {
+      "path": "files/assets/39035943/1/slot-bola-masse.png",
+      "bytes": 2969,
+      "sha256": "53a4b9c8c407cd845a7f2cc3a95e035eeed4b26affe801db70c2b06f9dcfec87"
+    },
+    {
+      "path": "files/assets/39035944/1/oscurecedor.png",
+      "bytes": 554,
+      "sha256": "1100bb1e358a1e48fb0493c8110ebcfa4d00ee056b98559216eb9622f8faa2ce"
+    },
+    {
+      "path": "files/assets/39035945/1/panel-totalscore.png",
+      "bytes": 43585,
+      "sha256": "e6457af83c027655d9582256daba038086e47e2f47a01603938bfd74eb37ec3f"
+    },
+    {
+      "path": "files/assets/39035946/1/sound-on.png",
+      "bytes": 6694,
+      "sha256": "eecd9ebe1145622553fd7f9aaa56482d20913e424952fbc256b56533dce3df23"
+    },
+    {
+      "path": "files/assets/39035947/1/barrasuperior-2.png",
+      "bytes": 10709,
+      "sha256": "05f80839ade4be44934d6a14ac07415f90d8f42ad1075f17fba6b3027911a0b1"
+    },
+    {
+      "path": "files/assets/39035948/1/cortina-abajo.png",
+      "bytes": 4032,
+      "sha256": "cf544b9b0eef1d3f731c6de9c69c9d4ee37d6ce368c7222099b4e2210463f821"
+    },
+    {
+      "path": "files/assets/39035949/1/howtoplay.png",
+      "bytes": 4579,
+      "sha256": "92c89d60a55164570a9573e06b1d40eb8e4db6b6cf63940735d1e47f42698b83"
+    },
+    {
+      "path": "files/assets/39035950/1/cortina-arriba.png",
+      "bytes": 4122,
+      "sha256": "c504d34999bfe71f77cd04882992ce7a482d769125e63bd6c2bab7cf108407cb"
+    },
+    {
+      "path": "files/assets/39035951/1/pool-mesa-D.json",
+      "bytes": 189231,
+      "sha256": "43430be9ebd7e8d649afd4961a0b2c8dc44886978a0b2de602c97f8178943190"
+    },
+    {
+      "path": "files/assets/39035953/1/sound-off.png",
+      "bytes": 6355,
+      "sha256": "c458a2449965d9f5350e24ba8bf288244dc22c1bc68e87e00cdd7c6db70d9032"
+    },
+    {
+      "path": "files/assets/39035954/1/boton-mace.png",
+      "bytes": 11449,
+      "sha256": "c3cdae50c588411b24ee262a2fecf8afadac8dd3715f6e8a253922ba6ca82fef"
+    },
+    {
+      "path": "files/assets/39035957/1/tutorial-cerrar.png",
+      "bytes": 2075,
+      "sha256": "460f3accbbd0720d7e3cb943fec9fea723c779cbea59cc24cd828d6013388e7a"
+    },
+    {
+      "path": "files/assets/39035963/1/trick-2.png",
+      "bytes": 4894,
+      "sha256": "8bcf5a03d1091d6ca2ada17e2a14b0df51d3fd62c9f03ca3b603349a5d91a183"
+    },
+    {
+      "path": "files/assets/39035964/1/tutorial-PC.png",
+      "bytes": 245245,
+      "sha256": "5bddef68a35efb41ae6dcb59f0734b7a9f8e1ed536c75c2d4f17f9b0270a9439"
+    },
+    {
+      "path": "files/assets/39035969/1/trick-3.png",
+      "bytes": 5360,
+      "sha256": "bc2acc378a32eb45d47a78beb718ef0ec6e8c661759cf15a4698081cdc4e64dc"
+    },
+    {
+      "path": "files/assets/39035970/1/tutorial-mobile.png",
+      "bytes": 263446,
+      "sha256": "0f379dcea66153fe984b8b90dd11153ce447f3dbecf60f832320d65f954ea4dc"
+    },
+    {
+      "path": "files/assets/39035977/1/logo.png",
+      "bytes": 178641,
+      "sha256": "8b2852f2130484384c8579638b7857a03f44beb3fd4b94e53d4efdc1d6c28d28"
+    },
+    {
+      "path": "files/assets/39035981/1/UI-bola8.png",
+      "bytes": 2515,
+      "sha256": "541323258643aed75303a1271d4ad09fae19bbda2577dcf83a6671d6f772a218"
+    },
+    {
+      "path": "files/assets/39035986/1/camar.json",
+      "bytes": 367,
+      "sha256": "9aa8ab1c81d2767224b2db6aa6027a3e3b7160eb4890a0f58a84fa0b559c9247"
+    },
+    {
+      "path": "files/assets/39035993/1/cubano-regular-webfont.png",
+      "bytes": 78332,
+      "sha256": "76bb55060c4ca409a498281dac90751e1ea902990ee3f0ea5ae232fa4b2873f6"
+    },
+    {
+      "path": "files/assets/39035995/1/finTurno.mp3",
+      "bytes": 2528,
+      "sha256": "9a3866184abcae915fa0f232b456ecac18593e3e50df02733556820466a8824e"
+    },
+    {
+      "path": "files/assets/39035998/1/ammo.wasm.wasm",
+      "bytes": 693917,
+      "sha256": "afccfd8aee3b5f0cf7b3f627ad3b7cd6624fc1e5c8eebbb56bb9d701948e19ac"
+    },
+    {
+      "path": "files/assets/39035999/1/bola colision fuerte.mp3",
+      "bytes": 6560,
+      "sha256": "023b98f5bd28b14b5341b5ff4e4c2ae0824c78aedaf746280d30eba12755e8ed"
+    },
+    {
+      "path": "files/assets/39036000/1/metebola.mp3",
+      "bytes": 7712,
+      "sha256": "24942890939e9f533fb63cb970cb0d018a7c633003efc06d7684eb2abad24555"
+    },
+    {
+      "path": "files/assets/39036002/1/plano-lineablanca.png",
+      "bytes": 263,
+      "sha256": "a18c9fba61101323fe46d7f2bcec47640384e6225baa20e7cd191d82b81cc020"
+    },
+    {
+      "path": "files/assets/39036006/1/pasar turno.mp3",
+      "bytes": 6944,
+      "sha256": "43529ab5ca3d5f039e0941317a71e9047bcf3f2bb147e0e0208b75144f16b1c5"
+    },
+    {
+      "path": "files/assets/39036007/1/tacos y mesas boton.mp3",
+      "bytes": 8096,
+      "sha256": "d87ae1efa0b5bceaff994b8672add20236cff656e46252e9440e2ac82d7fe2e9"
+    },
+    {
+      "path": "files/assets/39036008/1/siluetas.png",
+      "bytes": 29012,
+      "sha256": "8760df0048dade729baea92976a084faa605a4ab19644dfd5c8d0592b55f7f87"
+    },
+    {
+      "path": "files/assets/39036009/1/hud-masse-bola-puntoGUI.png",
+      "bytes": 559,
+      "sha256": "592eb8597cb4dc85313b220fb9b0f9f184477d95356e3276d6d939a61af7bd0b"
+    },
+    {
+      "path": "files/assets/39036011/1/bola colision media.mp3",
+      "bytes": 6944,
+      "sha256": "13146bda087a7682f81939247b11a9215d3d1ce5518e625c1a3ca9239b4aea1a"
+    },
+    {
+      "path": "files/assets/39036013/1/reflectgio8.png",
+      "bytes": 74397,
+      "sha256": "5673d8a7922ad8ce08bd351a30bfc1dbed9c67ffcf23c9bf85ade8609a2f8733"
+    },
+    {
+      "path": "files/assets/39036015/1/icono-mouse.png",
+      "bytes": 3779,
+      "sha256": "ea1cac2561746e0c217afb7456528aa63eea06674992e7005ed396580670080d"
+    },
+    {
+      "path": "files/assets/39036017/1/menu botones click singleplayer-multiplayer.mp3",
+      "bytes": 16352,
+      "sha256": "48989a352c8746c226faefae0a59c9f14917d1c3dd2d94715b2dc2e4c40f773b"
+    },
+    {
+      "path": "files/assets/39036023/1/hud-masse-bola-punto.png",
+      "bytes": 786,
+      "sha256": "17e9a71bb9d1e0f5b9f12733e7cfa4c18dc463eb399de97319a467c6a0ce21f4"
+    },
+    {
+      "path": "files/assets/39036025/1/gradien2.png",
+      "bytes": 72708,
+      "sha256": "1c0cbb79d358fcfc1bc68b527520de3d05f800d0193978f217d6acc8c9119782"
+    },
+    {
+      "path": "files/assets/39036026/1/bola15.png",
+      "bytes": 2168,
+      "sha256": "382b694a98177ea1a61d924aa30ef44fa7044e659a5fb425b6c904de0b724ff2"
+    },
+    {
+      "path": "files/assets/39036027/1/luz.png",
+      "bytes": 4015,
+      "sha256": "d38ab432f3cdfb56752aef110d17b6af1f149a70d2e269bd6d661e8b7f2e5bd3"
+    },
+    {
+      "path": "files/assets/39036030/1/bola12.png",
+      "bytes": 2196,
+      "sha256": "fd36b573cfa731910ba7029f5bdaae6f9169915d24481c0633ae2df329aab663"
+    },
+    {
+      "path": "files/assets/39036033/1/error compra tienda.mp3",
+      "bytes": 12896,
+      "sha256": "55a8d5fc707d7c4ad2a7ae594c29ace1f8de56258d8e1f7898e06be75b59d44f"
+    },
+    {
+      "path": "files/assets/39036036/1/boton retroceder.mp3",
+      "bytes": 4832,
+      "sha256": "f92f2da4baf3275bc74fc0be6d3fb56f8013d6ddb8135f06b7c5deb54b83d853"
+    },
+    {
+      "path": "files/assets/39036038/1/victoria.mp3",
+      "bytes": 12128,
+      "sha256": "84c5d0f8d965f9afe166c7826d324f0575f102c84106788b08c0986a854cdb57"
+    },
+    {
+      "path": "files/assets/39036039/1/pocket-circulo-segmentado.json",
+      "bytes": 5465,
+      "sha256": "3ddb8b4eaff73ae262597948a8fde289ba462400a0ffd1e8a47a5ba872c5dd67"
+    },
+    {
+      "path": "files/assets/39036040/1/derrota.mp3",
+      "bytes": 19616,
+      "sha256": "0f019d12e97a6a554f092b9c01fd5ff939b06b7e662a74aad508ec7ca1e87348"
+    },
+    {
+      "path": "files/assets/39036041/1/apuntar.mp3",
+      "bytes": 1184,
+      "sha256": "b71643a49e4e1ecc3ad5c41b149390b3c04e9ac37ff903c6e5e0baed87ea797f"
+    },
+    {
+      "path": "files/assets/39036042/1/sonido boton alternativo_2.mp3",
+      "bytes": 3488,
+      "sha256": "2e7f4f47829562845f518899ee2d329be9c5219b4245b16558e11a258e9ec9bc"
+    },
+    {
+      "path": "files/assets/39036044/1/bola4.png",
+      "bytes": 1703,
+      "sha256": "b447791471b1c6053dbaf5f60bd206aff472f2da4b5f08b94de0067596727739"
+    },
+    {
+      "path": "files/assets/39036047/1/linea-4-12.png",
+      "bytes": 4771,
+      "sha256": "d12244ebde04e6b1ff0eda29c85be34c44164aa540daee63770f75f214ea7278"
+    },
+    {
+      "path": "files/assets/39036049/1/linea-6-14.png",
+      "bytes": 4857,
+      "sha256": "4e8fa66198078c3f5b43c71fea8ec62adf41847cd4f8b2d6c842f60b11717fbc"
+    },
+    {
+      "path": "files/assets/39036051/1/linea-blanca.png",
+      "bytes": 6761,
+      "sha256": "cc7e6786853250e24f3e0a973e08c07c0d3fb9e5ed02cc50a4baf8a80dca8738"
+    },
+    {
+      "path": "files/assets/39036053/1/CIRCULO.png",
+      "bytes": 7198,
+      "sha256": "4cddf04a0958f92c07735a17311a547dd8d48cfbeb70c1ebc4b8b919518fa99d"
+    },
+    {
+      "path": "files/assets/39036054/1/UI-bola10.png",
+      "bytes": 3249,
+      "sha256": "032bd70721d74f4f4678ef186376a25f7fb34fbfd60a2f14222e2e00b858f14c"
+    },
+    {
+      "path": "files/assets/39036056/1/camara-punto2.json",
+      "bytes": 1654,
+      "sha256": "9a40c568903ee1f9c37b2e76952278c10b312da2ac2284369e52ed2ccc660d28"
+    },
+    {
+      "path": "files/assets/39036058/1/UI-bola9.png",
+      "bytes": 3150,
+      "sha256": "e001d2013223d967363753870efb6b38be522cf10401fca84d7de63d13cb9145"
+    },
+    {
+      "path": "files/assets/39036067/1/UI-bola4.png",
+      "bytes": 2909,
+      "sha256": "9caa23e4eb03e126f62980a6379dc9dac9772f6110b0e7dfe9e24598f3ee8bb4"
+    },
+    {
+      "path": "files/assets/39036068/1/pool taco.json",
+      "bytes": 31654,
+      "sha256": "69e5d1e3df5e381bb19a2aca4b3d9822282d6b9b9906138f2083a9b331c47fe0"
+    },
+    {
+      "path": "files/assets/39036090/1/bola-sombra.json",
+      "bytes": 775,
+      "sha256": "f8a76e9356368ef519f753222a6a7fc78df7e40fc61cbbcf72d04e8f19fa1508"
+    },
+    {
+      "path": "files/assets/39036101/1/compra tienda.mp3",
+      "bytes": 14432,
+      "sha256": "a11089dc3f09c3dbf5bbf319613b2d732fd804a0b8bc56a29cf9ae707dc755cc"
+    },
+    {
+      "path": "files/assets/39036109/1/resultado score.mp3",
+      "bytes": 20192,
+      "sha256": "23adfeff7054339031149182f3331c965fe4d477549aea7e31297a66d7b52e44"
+    },
+    {
+      "path": "files/assets/39036113/1/pocket-medio-abajo.json",
+      "bytes": 2489,
+      "sha256": "dfbb94f9720541906b6499cf5aca96e95dec7cbae0f7974b035f0ad3a31b5ece"
+    },
+    {
+      "path": "files/assets/39036115/1/plano-apuntar-inicial.json",
+      "bytes": 812,
+      "sha256": "4e9391cbff71690d562fec126f10b865973b2bb2b87fe33574d8b96c50ad1357"
+    },
+    {
+      "path": "files/assets/39036116/1/UI-bola14.png",
+      "bytes": 3231,
+      "sha256": "c3be37576cbca80c4ae961042a16a01487d6b6336d3318ba1fdce5c9c223aa28"
+    },
+    {
+      "path": "files/assets/39036117/1/flechas-movewhite.json",
+      "bytes": 5350,
+      "sha256": "15c77e3ea3fddc864d970c8b0dbda6a76c40964e1c92a1a7a01ef83958c2b711"
+    },
+    {
+      "path": "files/assets/39036119/1/panel-abajo.png",
+      "bytes": 2879,
+      "sha256": "e5b2f61e92c6653d7b5c6b433b9b877490f055fae29f1a0d6ba0dc0db12f8852"
+    },
+    {
+      "path": "files/assets/39036121/1/ammo.wasm.js",
+      "bytes": 296741,
+      "sha256": "5d969977f3198c00d093a231d3782bf511645a496f7ccd8aebb963b5c9b92c3c"
+    },
+    {
+      "path": "files/assets/39036122/1/glow-mesa.png",
+      "bytes": 2373,
+      "sha256": "831450bdbcccaef2a63cccd2fed1badc45f74ea02e7ff656961db4898ac87c87"
+    },
+    {
+      "path": "files/assets/39036125/1/gradien3.png",
+      "bytes": 169818,
+      "sha256": "cfce29ed5a3c8b57fb3f54e90b0decdebb455941ea8c6ada80fc35c73f6cbf96"
+    },
+    {
+      "path": "files/assets/39036138/1/linea-5-13.png",
+      "bytes": 5118,
+      "sha256": "7460b5eee78927af2705dc69af635df16d06948f1e6f513366fc22e54a123bb8"
+    },
+    {
+      "path": "files/assets/39036172/1/hud-masse-bolaGUI.png",
+      "bytes": 7294,
+      "sha256": "d6e14573d7ae74e8d4a4e136627b7491a05d46c98ac92149bcbc8fc9f6b1a679"
+    },
+    {
+      "path": "files/assets/39036175/1/hud-superior-extensor.png",
+      "bytes": 465,
+      "sha256": "f39e4d21d144107e975f2e9019bc5471b5f87ae26a32515ca43b2f8299afed15"
+    },
+    {
+      "path": "files/assets/39036176/1/WIN01.mp3",
+      "bytes": 40160,
+      "sha256": "9e676357abe25c631bf53e342bad94c421546469e51de9a8931f9c69ad025f8f"
+    },
+    {
+      "path": "files/assets/39036178/1/TIC-pocotiempo.mp3",
+      "bytes": 8096,
+      "sha256": "62b6bf07cc89679a9b844478b7c6b97cb436a862e22822c4d051eafc87b49f9b"
+    },
+    {
+      "path": "files/assets/39036179/1/tomaBlanca.mp3",
+      "bytes": 1376,
+      "sha256": "555ccae5b7c67f5d6ee076695d4f940c590dc9a6f4a7ed3ce7cc0f7f16e40450"
+    },
+    {
+      "path": "files/assets/39036183/1/soltarBlanca.mp3",
+      "bytes": 3488,
+      "sha256": "ca1974dac80d59c71bfd83f33ba30a4a98ade7510d191a93cf330bda8df35be5"
+    },
+    {
+      "path": "files/assets/39036190/1/UI-bola11.png",
+      "bytes": 3133,
+      "sha256": "a10b12481d7128f7ccac157bb35d13bf321b8767d8e3634bedbf0454d53f696a"
+    },
+    {
+      "path": "files/assets/39036191/1/UI-bola7.png",
+      "bytes": 2736,
+      "sha256": "6df52b8e00505d175d5c15a7e9a683a877747e0bd7190241e15cc3ce8c8448ce"
+    },
+    {
+      "path": "files/assets/39036194/1/gradienteBG.png",
+      "bytes": 500,
+      "sha256": "56e5e2a38c014aeda4f1970374f1a98d903647cbeb23d6ab0e327e1db5294283"
+    },
+    {
+      "path": "files/assets/39036196/1/piso-fondo.png",
+      "bytes": 460151,
+      "sha256": "9b4b952eed9a0c076bc69532be2e26aaa5a4ea2c7a97e26bb733494442a616d7"
+    },
+    {
+      "path": "files/assets/39036197/1/UI-bola2.png",
+      "bytes": 2974,
+      "sha256": "9ddfd55968d5fdb819cccdbcc380c14633f1649b93e2cfc979b70421d3afc86d"
+    },
+    {
+      "path": "files/assets/39036198/1/bola8.png",
+      "bytes": 2104,
+      "sha256": "b1ad234f9a57c9be13b0749f4e4a8a8c3c6e1d1f2b53adf10802b0bffda901db"
+    },
+    {
+      "path": "files/assets/39036199/1/panel-ok.png",
+      "bytes": 8906,
+      "sha256": "44064af1b8821b494b4372b9e7257d7662e15b16d0194b7a9c8022f6d38e7c48"
+    },
+    {
+      "path": "files/assets/39036200/1/plano-apuntarC.json",
+      "bytes": 1150,
+      "sha256": "5923a83fc9aad2c165855948c24716f6f2e5f3552b34a3b561c0b361955e6a77"
+    },
+    {
+      "path": "files/assets/39036201/1/bola colision debil.mp3",
+      "bytes": 3296,
+      "sha256": "b7afe83a7cebca51db74a04c0e4a4a371ce6126ed416b7e40eb87fff848fadc5"
+    },
+    {
+      "path": "files/assets/39036202/1/hud-masse-oscurecedor.png",
+      "bytes": 519,
+      "sha256": "b9bc837c5731cc15813bd663d648209f225f2df37e02597585ded14aa790331f"
+    },
+    {
+      "path": "files/assets/39036203/1/tutorial-flechaindicadora.png",
+      "bytes": 6662,
+      "sha256": "94649c7f60e5408e508fb47cee4b0d2c71450b6f49ce6cd7107d4dab01c9e7cc"
+    },
+    {
+      "path": "files/assets/39036206/1/bola13.png",
+      "bytes": 2274,
+      "sha256": "4a45b622929414ac836b04466d20baabd8b6f28ff13301b98c0ac0c2ad6fd082"
+    },
+    {
+      "path": "files/assets/39036208/1/camara-punto1.json",
+      "bytes": 1645,
+      "sha256": "1c4473db3658f8f9fc340b9f3eb1cc8bbc8973659d05bbcaf25815fc14f7ecc5"
+    },
+    {
+      "path": "files/assets/39036209/1/UI-bola6.png",
+      "bytes": 2924,
+      "sha256": "c8963e345e07c8ebe65339c238e9b415b6aff9399c13d352fd0c5ac896f77427"
+    },
+    {
+      "path": "files/assets/39036211/1/UI-bola12.png",
+      "bytes": 3277,
+      "sha256": "7d40b054d7b4850d4588e0a9913df2b4055bd8ff0780050ab3897a3fb5db3703"
+    },
+    {
+      "path": "files/assets/39036212/1/UI-bola3.png",
+      "bytes": 3126,
+      "sha256": "fd287b5adde4544fcca4b9af0ff6ca01fef7de3143e3965b9a4beb122148b888"
+    },
+    {
+      "path": "files/assets/39036213/1/bola9.png",
+      "bytes": 2158,
+      "sha256": "132a7be842e7f1337c6849b241d23c0aed4b5c63ffbf446080feac49fe7dc5f6"
+    },
+    {
+      "path": "files/assets/39036215/1/bola5.png",
+      "bytes": 1871,
+      "sha256": "d587a863de53cf0d952e34f581bd449f93826ea4bb9b3fd51e2e80768893d3a7"
+    },
+    {
+      "path": "files/assets/39036216/1/bola2.png",
+      "bytes": 1936,
+      "sha256": "b174e3b3335fc630c28e4fb1c7043ebae6d54b2bede28da07d90aa5affca7f33"
+    },
+    {
+      "path": "files/assets/39036217/1/bola3.png",
+      "bytes": 2075,
+      "sha256": "26e53d3965a65c0b16c7f0c31245c62fe182874aa73c008789f2c4feaa73599c"
+    },
+    {
+      "path": "files/assets/39036219/1/bola14.png",
+      "bytes": 2035,
+      "sha256": "f813f02812db0ee9c85e1212ffe84f657e4aeaa59151d48ec4df68192bd09963"
+    },
+    {
+      "path": "files/assets/39036227/1/metebola2.mp3",
+      "bytes": 12704,
+      "sha256": "ff9ade400423ead69caa476377862b2fe8a97103bd8311707f4ef053ddaf9356"
+    },
+    {
+      "path": "files/assets/39036232/1/indicador-circulo.json",
+      "bytes": 771,
+      "sha256": "bfc94af814fa6df638b7d6bd9620ecf636f323bf94d29f6181ce329cfe4690f6"
+    },
+    {
+      "path": "files/assets/39036237/1/primer golpe a bolas.mp3",
+      "bytes": 7712,
+      "sha256": "ead210bbe1bd19beee0c8601ffb7ca03440bbd34021b9882d8510f53a493e9eb"
+    },
+    {
+      "path": "files/assets/39036241/1/sonido on_off (2).mp3",
+      "bytes": 1952,
+      "sha256": "fca83041677e3af145350e358cea943e54000a868900965b88cb68e9a12c60bd"
+    },
+    {
+      "path": "files/assets/39036243/1/pocket-derecha-abajo.json",
+      "bytes": 3281,
+      "sha256": "ae361656b1b992179183b9bd59d2bf25e1c4bae86788da0dcf86535b31b29f54"
+    },
+    {
+      "path": "files/assets/39036244/1/linea-1-9.png",
+      "bytes": 4845,
+      "sha256": "95e6437835069ed1a3d4a00196f28a6af5605d802a700b29c069950c1c4b39e5"
+    },
+    {
+      "path": "files/assets/39036245/1/reflectgio5.png",
+      "bytes": 376344,
+      "sha256": "4049455d68fff7d931ea31879667da7103542bfd4a333c955cf8508cd20d6ffc"
+    },
+    {
+      "path": "files/assets/39036246/1/linea-8.png",
+      "bytes": 3868,
+      "sha256": "4136e6c41d214c2f667127dd065a2208e957d4ee6d90c0a1ddc6e12e0f9cb582"
+    },
+    {
+      "path": "files/assets/39036248/1/bola11.png",
+      "bytes": 1846,
+      "sha256": "5a8df3c8eb4e31fc341d9c3d0e814a038004eadf157279802d061f2ab2b14bdd"
+    },
+    {
+      "path": "files/assets/39036251/1/tutorial-dedo.png",
+      "bytes": 49660,
+      "sha256": "d76d1d30d0ff57511ffa92c83f47249c32959bcb243c9c4d241959e5b3ce0c95"
+    },
+    {
+      "path": "files/assets/39036254/1/bola7.png",
+      "bytes": 1866,
+      "sha256": "2b71c7d09348c224a41e81341e1138f19bd707989ae5b91e75233894ee8da482"
+    },
+    {
+      "path": "files/assets/39036255/1/oscurecedor.png",
+      "bytes": 311,
+      "sha256": "1eaacc80ae88bf65bf8ffaf3086ac0e11f86c1701435cfba793f5f95857199dc"
+    },
+    {
+      "path": "files/assets/39036256/1/bola6.png",
+      "bytes": 1958,
+      "sha256": "c5bea0af1fbfb99f3f7dd1693ecd99ea11c19d465284e6137ae9cb53b5c93187"
+    },
+    {
+      "path": "files/assets/39036258/1/sombraB.png",
+      "bytes": 7816,
+      "sha256": "5ea2619e83e48dc277a4fe382163fbd690336463ccd00173d69a78e554211df8"
+    },
+    {
+      "path": "files/assets/39036259/1/bola1.png",
+      "bytes": 1599,
+      "sha256": "0bba4b3b3109af5a07afdb7a25a08b36882e63ed304c6277b792ad202f1248a6"
+    },
+    {
+      "path": "files/assets/39036261/1/bola-blanca.png",
+      "bytes": 678,
+      "sha256": "0b273239f9808fdb4ef8769e6312cb909acd0996173fc7d7ec16a07e4daa37b9"
+    },
+    {
+      "path": "files/assets/39036263/1/panel-base.png",
+      "bytes": 6587,
+      "sha256": "49d4c1ddac7014e6b59fe2f1e95fee21ac4c74b592a4bfaed5c2be1e34e27555"
+    },
+    {
+      "path": "files/assets/39036267/1/bola10.png",
+      "bytes": 2276,
+      "sha256": "d1838ba93af9a77e185a05eaea690a4de4ffb3cb2cf14a55af1003a8ef03dd65"
+    },
+    {
+      "path": "files/assets/39036272/1/taco golpea bola-debil.mp3",
+      "bytes": 2144,
+      "sha256": "5ec58dbef722500531f755ed02f40f7a4a2f8fc46ba77b335a44a39f0f30c223"
+    },
+    {
+      "path": "files/assets/39036273/1/tutorial-tapador-barrasuperior.png",
+      "bytes": 438,
+      "sha256": "7488879abb3f5e7b7a85eab54a9dd9dc9b298ec2e9fa6237ea72dfb06ce70acb"
+    },
+    {
+      "path": "files/assets/39036274/1/tutorial-ajustapower.png",
+      "bytes": 12573,
+      "sha256": "8c71636e69cfe111f8ce39639b659cb5ada03f59f21fd9f5f4fc5f5ecb64fc35"
+    },
+    {
+      "path": "files/assets/39036279/1/taco golpea bola-fuerte.mp3",
+      "bytes": 5792,
+      "sha256": "ee1ea45040dd8eebeaff0420ec8a0cd8bd347dc51bc3979b97fc3740a6e139a4"
+    },
+    {
+      "path": "files/assets/39036281/1/linea-7-15.png",
+      "bytes": 4306,
+      "sha256": "cd4530ea54839e64105122c3ce97698d027afbd7bc5cfd8ef80eb259fe415a95"
+    },
+    {
+      "path": "files/assets/39036284/1/linea-2-10.png",
+      "bytes": 4807,
+      "sha256": "2f85ec2d6b24383c4a5ee1605ca24d1d84f654b5889e04f880cb394f472d86ba"
+    },
+    {
+      "path": "files/assets/39036291/1/hud-masse-bola.png",
+      "bytes": 43012,
+      "sha256": "12443dc998e9728f178d0780404c5d8afb5a6650784869c639b089c174132ba4"
+    },
+    {
+      "path": "files/assets/39036293/1/linea-3-11.png",
+      "bytes": 4816,
+      "sha256": "10e0616d804f895235fc9cdb24d7001c1e151396184ec8183cd2c1afe4a24a4c"
+    },
+    {
+      "path": "files/assets/39036297/1/UI-bola13.png",
+      "bytes": 3282,
+      "sha256": "7143f1f7f668f760fe7dcc1b9cc1240f0f3d3dc1b36f9f83b30ccf18ab9bf41d"
+    },
+    {
+      "path": "files/assets/39036299/1/UI-bola5.png",
+      "bytes": 3263,
+      "sha256": "4cff42d11d94a72bcc1d4ad3c3f5c651f57c8975e9e91d5ac047859491c68b45"
+    },
+    {
+      "path": "files/assets/39036300/1/UI-bola15.png",
+      "bytes": 3246,
+      "sha256": "4cc11134149f0cbd483bd35da6a6cb9dd9383072a5d65a764426141c3a1a0d8b"
+    },
+    {
+      "path": "files/assets/39036301/1/glow-mesacompleta.json",
+      "bytes": 38577,
+      "sha256": "db017629f05ee32bda8131b8c48b05603ba78cf1cba11822d3a9f0ff4a9f0ef9"
+    },
+    {
+      "path": "files/assets/39036302/1/pocket-izquierda-arriba.json",
+      "bytes": 3274,
+      "sha256": "583216a60b52ff8686b7ad68705953f0d0f2b50969006f707ff9433b50338e33"
+    },
+    {
+      "path": "files/assets/39036304/1/escenamain.json",
+      "bytes": 18915,
+      "sha256": "3914cb42b05154020c523c16316910854bba807d925f4e50fd706a3898211218"
+    },
+    {
+      "path": "files/assets/39036307/1/pocket-derecha-arriba.json",
+      "bytes": 2777,
+      "sha256": "d5c38b4b1cc3a292818f9d98280910a6d9465d5519b1de0e88f2afb8ff576803"
+    },
+    {
+      "path": "files/assets/39036309/1/bola-pool.json",
+      "bytes": 19336,
+      "sha256": "75672728a74b8193b5c8e625a8de49be7782c6bdea4e6a6cb30f30f223f80995"
+    },
+    {
+      "path": "files/assets/39036310/1/plano-apuntar-baseC.json",
+      "bytes": 2975,
+      "sha256": "96b7e8301769c5e7f69d47c16357c943805f1363a3a1431da5353217da270ce0"
+    },
+    {
+      "path": "files/assets/39036311/1/pocket-circulo-segmentado.png",
+      "bytes": 335,
+      "sha256": "95ad0a8d55462d9dc7bc7d3bb6729d3b8f3d22cab56687ceb60b2f4a94cd6afa"
+    },
+    {
+      "path": "files/assets/39036312/1/glow-inicial.json",
+      "bytes": 12821,
+      "sha256": "30d1a05e1e023a0bd8102eb91df015f6eb8e6366d5bb309c02377a41301b0563"
+    },
+    {
+      "path": "files/assets/39036313/1/pocket-izquierda-abajo.json",
+      "bytes": 2864,
+      "sha256": "03baf73efd82ebc5d685cad625e65ed8d94868cf3d16ff2012c8b885eec64f10"
+    },
+    {
+      "path": "files/assets/39036315/1/text pools tac.png",
+      "bytes": 58088,
+      "sha256": "d14d12c60425e904e3f97665de9020437c23ad8da3b4222166a3374a8907a982"
+    },
+    {
+      "path": "files/assets/39036316/1/pocket-medio-arriba.json",
+      "bytes": 2061,
+      "sha256": "cb4d656eebd3948fecd5271292f5a1cff0caaee78b9824fc85c36919a41ace6f"
+    },
+    {
+      "path": "files/assets/39036317/1/topes.png",
+      "bytes": 11847,
+      "sha256": "72eb8f0483377f3da8ee870ce3c564b9ed6ccd9a557945875767c0c5cc60688c"
+    },
+    {
+      "path": "files/assets/39036318/1/tapador.json",
+      "bytes": 5809,
+      "sha256": "0c526b384576136b1563604107319786f38e8b0269aa54fcb8e7ef2da3f85418"
+    },
+    {
+      "path": "files/assets/39036319/1/ammo.js",
+      "bytes": 1812192,
+      "sha256": "757e0ed00d6669abafc42167bceff725a1e88140af34edddfeb457e5b691cfe9"
+    },
+    {
+      "path": "files/assets/39036320/1/UI-bola1.png",
+      "bytes": 3128,
+      "sha256": "1dfcc2a044c094fcc8934569a96dffcf9a102538f8fcd581fa86b70ad101322a"
+    },
+    {
+      "path": "files/assets/39036321/1/oscurecedor-opciones.png",
+      "bytes": 1540,
+      "sha256": "7737de1082f9694a55ec2d42b905b899428cd9f5b06b891889b9f2bcaf3643e4"
+    },
+    {
+      "path": "files/assets/39036453/1/mesa.png",
+      "bytes": 61745,
+      "sha256": "14b0b297a44a0ac57c238c460897a82cf2c9e66f8fd25445b866fb092cdec26d"
+    },
+    {
+      "path": "files/assets/39036455/1/bals.png",
+      "bytes": 194056,
+      "sha256": "47bd25c21ade34bb5dff7f21ddd5ea402b5a38680aa7af9988a470fbfad6f68a"
+    },
+    {
+      "path": "files/assets/39036457/1/barrapower-taco.png",
+      "bytes": 35764,
+      "sha256": "ebc9e02d27e70bec352a216dfb0943217c3fad2705a4f643774aca8c9a0869a0"
+    },
+    {
+      "path": "files/assets/39036458/1/circulo-bolaX.png",
+      "bytes": 9933,
+      "sha256": "6b49caf7ca65086b4b7dff8229c80df91061034374101f42edb8bab0887a4bd2"
+    },
+    {
+      "path": "files/assets/39036459/1/meteblanca.png",
+      "bytes": 7145,
+      "sha256": "9565bdebc4d2cba62b37d7da48d50b65e708010f8128a96d415e0779dd222a77"
+    },
+    {
+      "path": "files/assets/39036462/1/barrapower-tapador.png",
+      "bytes": 5743,
+      "sha256": "b355d352985074f1e3342e2d5e094e1e193b9838c2ad03ee3ae6a260a515b0ab"
+    },
+    {
+      "path": "files/assets/39036465/1/barrapower-oscurecedor.png",
+      "bytes": 2817,
+      "sha256": "51b4a09888b97c0ba061f00f05cd1454821cf494fb5ce8121e0ddb7add9fb27d"
+    },
+    {
+      "path": "files/assets/39036466/1/barrapower-base.png",
+      "bytes": 12987,
+      "sha256": "ee418b5a13106d36fd3c63be739344ffa4aa6a08eca77e29c782f3a5737ac0a3"
+    },
+    {
+      "path": "files/assets/39036468/1/indicador-nextball.json",
+      "bytes": 4134,
+      "sha256": "e91abc47d1196aa0df1081ebb5f88178f908283aa3b5d20bb9b276a86464ed36"
+    },
+    {
+      "path": "files/assets/39036470/1/taptoplay-eng.png",
+      "bytes": 8240,
+      "sha256": "680577b598809e8b178e802db0a6f90f2054fcdf18d19cc04565e22fd1b47c40"
+    },
+    {
+      "path": "files/assets/39036482/1/rdygo0001.png",
+      "bytes": 13571,
+      "sha256": "3c8e3c2f2d01f2320207151f54e9533494d2fb70f219144542108823a3fa1561"
+    },
+    {
+      "path": "files/assets/39036484/1/rdygo0007.png",
+      "bytes": 16997,
+      "sha256": "bd180561c19f1e8861ea5b26123d7114dbd99870e54647725ec497745a7ffa1f"
+    },
+    {
+      "path": "files/assets/39036485/1/rdygo0003.png",
+      "bytes": 15258,
+      "sha256": "ce84482a718a801a06967e8a4d7ce5e59c308218c5cf3a4575d6a457555fc57f"
+    },
+    {
+      "path": "files/assets/39036486/1/rdygo0004.png",
+      "bytes": 15836,
+      "sha256": "eb3e987d201b434720b95db89bb78f0c684e08039337f0926b5bd608e3ca7528"
+    },
+    {
+      "path": "files/assets/39036487/1/rdygo0012.png",
+      "bytes": 17012,
+      "sha256": "2910bb499ce12e7239d599ccaefb156d33b63c3431afa52ba1131b9c62f462f9"
+    },
+    {
+      "path": "files/assets/39036488/1/rdygo0015.png",
+      "bytes": 16857,
+      "sha256": "2add4b0a1b45b574a079e1ffcd2614af90b0966334b0dc01292d7954c28faab2"
+    },
+    {
+      "path": "files/assets/39036489/1/rdygo0016.png",
+      "bytes": 16962,
+      "sha256": "72e28b8c837cc6727471d5673bffb6ba7d159edd0e4abd220168ea1ec962de78"
+    },
+    {
+      "path": "files/assets/39036490/1/rdygo0019.png",
+      "bytes": 16871,
+      "sha256": "2de7df9d9aea423461fc879e1d04949820b93528aca30af81a835f0e8e732337"
+    },
+    {
+      "path": "files/assets/39036491/1/rdygo0017.png",
+      "bytes": 16952,
+      "sha256": "5c5a99808b2c21bbf907a9865a5dd7ab39815d878fc081a7cc88143b81b98d9a"
+    },
+    {
+      "path": "files/assets/39036492/1/rdygo0024.png",
+      "bytes": 39989,
+      "sha256": "214eb61fd870d21d7441e536243665c654458a480e8842c3a8522973f4106bd9"
+    },
+    {
+      "path": "files/assets/39036493/1/rdygo0002.png",
+      "bytes": 14666,
+      "sha256": "f546060842aa88a8a0052c0a67c4aa4837bc0922cc0c84ac4dc8ff7357c73584"
+    },
+    {
+      "path": "files/assets/39036494/1/rdygo0014.png",
+      "bytes": 16812,
+      "sha256": "d5fa144a57178d2706410fadf865ef3ee7d1923ee22b632a05799e1f757bb32b"
+    },
+    {
+      "path": "files/assets/39036495/1/rdygo0036.png",
+      "bytes": 21878,
+      "sha256": "14e54db6d082ded6ef89c95f27d7c260ca5f72b068bb9ec7285b70d95ee8a375"
+    },
+    {
+      "path": "files/assets/39036496/1/rdygo0037.png",
+      "bytes": 21356,
+      "sha256": "9e5bc76c2ee68c0c6d5a5aada473f8175a8f03814b1f2aa04cd82977b9eaf504"
+    },
+    {
+      "path": "files/assets/39036497/1/rdygo0008.png",
+      "bytes": 16802,
+      "sha256": "316a96a48c0fe7afb404fca835cd217a63a266f851da681578f0cbbca1c7a7dc"
+    },
+    {
+      "path": "files/assets/39036498/1/rdygo0020.png",
+      "bytes": 20787,
+      "sha256": "243d5b8fef1c889995aac2eb5a1a4340b5a006bab6e3e0ce16d80882d0c68d43"
+    },
+    {
+      "path": "files/assets/39036499/1/rdygo0028.png",
+      "bytes": 36794,
+      "sha256": "42f32820b0cbde240999ffffb0447da2ba9be532aec13ca11bc4881a845b74e7"
+    },
+    {
+      "path": "files/assets/39036500/1/rdygo0031.png",
+      "bytes": 23450,
+      "sha256": "882ff9a7842d8da5fd5bf493548ca9fed28bc987d7214cf9069bd6d34c43839b"
+    },
+    {
+      "path": "files/assets/39036501/1/rdygo0039.png",
+      "bytes": 18905,
+      "sha256": "a913216a8f606c41698fcfd5a749b06119bf68c1c38a673d74d9128517ede3dc"
+    },
+    {
+      "path": "files/assets/39036502/1/rdygo0011.png",
+      "bytes": 16958,
+      "sha256": "a507fa4f3ee7b3ac20c77d0314ef39387cbd80ae1633f95eb14b7853c132021f"
+    },
+    {
+      "path": "files/assets/39036503/1/rdygo0018.png",
+      "bytes": 17003,
+      "sha256": "37b0c6b8c97d161085f86cda17f4719ca47409f2f01215b40aaaa6e6ad0fb6ed"
+    },
+    {
+      "path": "files/assets/39036504/1/rdygo0005.png",
+      "bytes": 16404,
+      "sha256": "299042f8b3fd53a337a41b56e5d2411a36c738c80bb97be49d6602266ee8662c"
+    },
+    {
+      "path": "files/assets/39036505/1/rdygo0027.png",
+      "bytes": 38187,
+      "sha256": "8ef0de9b7dc5184e56f160e1766c85dcb89f3beebc5cf20a9968799d42cb67e8"
+    },
+    {
+      "path": "files/assets/39036506/1/rdygo0010.png",
+      "bytes": 16956,
+      "sha256": "9e678ce3c485cdb4d4ff6d269fb16167901239b1ea88f171d6d96147dc1e8514"
+    },
+    {
+      "path": "files/assets/39036507/1/rdygo0009.png",
+      "bytes": 16889,
+      "sha256": "ea7d71e3c9e403f8aca4fa6a791eabdf35e5dc61df3d9527ad2ef912820e513f"
+    },
+    {
+      "path": "files/assets/39036508/1/rdygo0026.png",
+      "bytes": 38710,
+      "sha256": "5bd8fb1289271607daa6b50c392e0588004381528423ea070026e167325e81f3"
+    },
+    {
+      "path": "files/assets/39036509/1/rdygo0034.png",
+      "bytes": 22368,
+      "sha256": "20e9c472cea1cfd09e01dc9f2a9a08c9a894a50b7307390d604a9a902c3abde3"
+    },
+    {
+      "path": "files/assets/39036510/1/rdygo0013.png",
+      "bytes": 16884,
+      "sha256": "bd507fc1a3b86083eb0e9d51aeac7089416e201363f9961fed856e4faceb755a"
+    },
+    {
+      "path": "files/assets/39036511/1/rdygo0006.png",
+      "bytes": 16812,
+      "sha256": "e80c052179eeee7ade0bb406902f5aa50418c9f40ad61f9d4b2f6998905151f2"
+    },
+    {
+      "path": "files/assets/39036512/1/rdygo0021.png",
+      "bytes": 25079,
+      "sha256": "51d7d694cb9484eb1dbf2ded9de80500016116197c663d6e372a6ea766081fdb"
+    },
+    {
+      "path": "files/assets/39036513/1/rdygo0035.png",
+      "bytes": 22171,
+      "sha256": "a93c8404120570ee4ab6eeb47c292f3e5189a1a00ea38016e6de65f3f4b721ed"
+    },
+    {
+      "path": "files/assets/39036514/1/rdygo0023.png",
+      "bytes": 34785,
+      "sha256": "07c23f66136e17287901aaecafa3ef7185336023bc8c52de788d0aeb03f50de2"
+    },
+    {
+      "path": "files/assets/39036515/1/rdygo0030.png",
+      "bytes": 23627,
+      "sha256": "f327505eec04005e887f096b745a929e80798e34d2406570925485c84ae153bd"
+    },
+    {
+      "path": "files/assets/39036516/1/rdygo0022.png",
+      "bytes": 29673,
+      "sha256": "5648247192e01719fb36b8d5512b722954bb4e0de81e84010ec2b1e4f5f6094d"
+    },
+    {
+      "path": "files/assets/39036517/1/rdygo0038.png",
+      "bytes": 20268,
+      "sha256": "6b96d08b949f63fdcd9e70352117427077afb529e34c18b69330927c1558fca6"
+    },
+    {
+      "path": "files/assets/39036518/1/rdygo0025.png",
+      "bytes": 39990,
+      "sha256": "1777415cc930fec38b423675fcb874185f5946ac71b2f330e0f13bec19d6f758"
+    },
+    {
+      "path": "files/assets/39036519/1/rdygo0032.png",
+      "bytes": 22911,
+      "sha256": "f511fda577cb556c088e9e53800a23b64c29f04eaa0b078d1afeb7aa27987c33"
+    },
+    {
+      "path": "files/assets/39036520/1/rdygo0033.png",
+      "bytes": 22394,
+      "sha256": "bab75806d0e4455bcf1c86d2124736d8b6c0ca2e3bfe8a5e80009e9cc0993811"
+    },
+    {
+      "path": "files/assets/39036521/1/rdygo0042.png",
+      "bytes": 5240,
+      "sha256": "70637799af7619391b7a639118e5800a322dca4df576a4fa26ce02790dbdbf9b"
+    },
+    {
+      "path": "files/assets/39036522/1/rdygo0029.png",
+      "bytes": 36060,
+      "sha256": "9de6c87e659c1546a9b0fa91e6cf1c5a93e6422fe9f34f201ef6ca70f5760d59"
+    },
+    {
+      "path": "files/assets/39036523/1/rdygo0040.png",
+      "bytes": 15348,
+      "sha256": "4473761d9a48f8d1294388a50c4ab3f55283e8a765a05d4c66e6ed937eae4ab8"
+    },
+    {
+      "path": "files/assets/39036524/1/rdygo0041.png",
+      "bytes": 11339,
+      "sha256": "682397eab700ac0b6d83ef8a2d3534ea55233890c3dd34d84c9f0562269e7f15"
+    },
+    {
+      "path": "files/assets/39036526/1/rdygo0043.png",
+      "bytes": 293,
+      "sha256": "9da886cdd08c72a810144d94f89a2524fdfbfe565e162425ba55db40ff9e5890"
+    },
+    {
+      "path": "files/assets/39036530/1/tocabola-3.png",
+      "bytes": 5721,
+      "sha256": "a9595c8d04757caf250d847956f68f94bc06ce6e3827c6bc8304689884f69866"
+    },
+    {
+      "path": "files/assets/39036532/1/tocabola-2.png",
+      "bytes": 5458,
+      "sha256": "07abe42e02041d42073f047b25fb075eaca3a5f956caf31d8d78ea02e756e0e4"
+    },
+    {
+      "path": "files/assets/39036533/1/metabola-22.png",
+      "bytes": 6714,
+      "sha256": "61ac706bf68e8c41ad3ab1405f3ca135a1ac55935f9db753211e27f1834c4b33"
+    },
+    {
+      "path": "files/assets/39036534/1/metabola-10.png",
+      "bytes": 5157,
+      "sha256": "85d25e675b266064aeb8279e5be0af0dbe284716d75e117ea15e2db0f4f7cd68"
+    },
+    {
+      "path": "files/assets/39036537/1/perfect-100.png",
+      "bytes": 40370,
+      "sha256": "1f1ac068b22260cdabb77d93e63e07f391566ddca7676080a8558d889ea2db6f"
+    },
+    {
+      "path": "files/assets/39036539/1/metabola-11.png",
+      "bytes": 4959,
+      "sha256": "6779b39b4850b9d24b95c9f84b7da63b06fa94718e4ca8fb4210c5367d373810"
+    },
+    {
+      "path": "files/assets/39036540/1/metabola-33.png",
+      "bytes": 7231,
+      "sha256": "5f8b80405da99b976ffa43934d5fc0348af2a2f6ba10c4621052720601279ddc"
+    },
+    {
+      "path": "files/assets/39036541/1/tocabola-1.png",
+      "bytes": 4751,
+      "sha256": "84f806a265871766e94a35823c9a574524e809281d543b6edd3c407badfc930f"
+    },
+    {
+      "path": "files/assets/39036542/1/metebola-20.png",
+      "bytes": 5877,
+      "sha256": "2357bb941c93722bdfe9b056f70f65dee1edb2785e5229aa806a2f2bf2c393a6"
+    },
+    {
+      "path": "files/assets/39036543/1/metabola-30.png",
+      "bytes": 7576,
+      "sha256": "31fb9e7d203710b20800fe10a5be520d18f6a1c100ed7cfb1ed071ba326a4d95"
+    },
+    {
+      "path": "files/assets/39036544/1/great-40.png",
+      "bytes": 35418,
+      "sha256": "e1e02d70d50055c15c2ed28fe3bb919027fe4667316b7c43860669f29e3ac120"
+    },
+    {
+      "path": "files/assets/39036547/1/incredible-200.png",
+      "bytes": 47990,
+      "sha256": "20aca6de887190760d00629745562c8b71231f1a36cd5cfe8fd1a24fe2969fa1"
+    },
+    {
+      "path": "files/assets/39044874/1/menupause.png",
+      "bytes": 11028,
+      "sha256": "dc10c8041b5b2b005fe4211e180fd2bedfb043547f1260bcea65e7d8fd6b3eca"
+    },
+    {
+      "path": "files/assets/39044875/1/btn-howtoplay.png",
+      "bytes": 15765,
+      "sha256": "0d6ccdcc0f73285e779642de409ae220f033b119f85c4119b36e7ba70988997f"
+    },
+    {
+      "path": "files/assets/39044876/1/resume.png",
+      "bytes": 15079,
+      "sha256": "4cf810eb4b0e9c0c937e70fa8e42f008c9be225b37249dc75b279a341eeeb34f"
+    },
+    {
+      "path": "files/assets/39044877/1/endgame.png",
+      "bytes": 15005,
+      "sha256": "42c52f3ac7a215fe93a8b85a2e7a66bd744dc1a5c66acf94d9a19cdc76d40ea4"
+    },
+    {
+      "path": "files/assets/39060875/1/pool ingame.mp3",
+      "bytes": 887418,
+      "sha256": "edfe45f2daf82354c71e927087029b02c187277b82cacc2fa21f21ae8504f7fd"
+    },
+    {
+      "path": "files/assets/39060876/1/pool mainmenu.mp3",
+      "bytes": 380928,
+      "sha256": "376879ed90397e51c8b7c9f0dea75529eb3d84a65a9006df2893a7409d372e50"
+    },
+    {
+      "path": "files/assets/39074141/1/boton-arriba.png",
+      "bytes": 70009,
+      "sha256": "bb2725231457f047ac5abd136c025cce7e930452dafa0aee0a227689356f643d"
+    },
+    {
+      "path": "files/assets/39074142/1/nothanks.png",
+      "bytes": 8480,
+      "sha256": "ed1d45344beeff6fecfd225e269b379049082600a9035344c7110f8d5f0fbad9"
+    },
+    {
+      "path": "files/assets/39074143/1/boton-background.png",
+      "bytes": 14826,
+      "sha256": "e00cc4a06f4729f53a70b71ec5d172dcfdccc5bf2f7ee9460c8dcac863a68c3c"
+    },
+    {
+      "path": "files/assets/39074145/1/continue-timer0001.png",
+      "bytes": 1818,
+      "sha256": "09eb26d1763782878e8908f6873438a81ff829d30a00336b72e283f4c7fb4bf3"
+    },
+    {
+      "path": "files/assets/39074146/1/continue-timer0003.png",
+      "bytes": 2208,
+      "sha256": "db5d2827f78727bcf1833098bda6d6bc2c2e5005915524ebb035746dbbb4017b"
+    },
+    {
+      "path": "files/assets/39074147/1/continue-timer0002.png",
+      "bytes": 2143,
+      "sha256": "c54a235457171bdcc1637741c6c1032ff4055b7e23e80058453336342e85b4ad"
+    },
+    {
+      "path": "files/assets/39074148/1/continue-timer0007.png",
+      "bytes": 2215,
+      "sha256": "028eb21bb069eb464724eead63f3e6914ac2d25a66aaad7709aa779cb7c1dada"
+    },
+    {
+      "path": "files/assets/39074149/1/continue-timer0006.png",
+      "bytes": 2240,
+      "sha256": "8901fb7a63cb241289109c7aa1554028c89e4c32d4acf823eef0cb5b106c6db8"
+    },
+    {
+      "path": "files/assets/39074150/1/continue-timer0004.png",
+      "bytes": 2246,
+      "sha256": "1d7e90f555fdac95219dc239ba6528d361bff6aafde0b2332db8e47d22b0143d"
+    },
+    {
+      "path": "files/assets/39074151/1/continue-timer0005.png",
+      "bytes": 2184,
+      "sha256": "74c708933fe5791f387e51922807a222abb645762bf23be608f9af080f289280"
+    },
+    {
+      "path": "files/assets/39074152/1/continue-timer0008.png",
+      "bytes": 2220,
+      "sha256": "4ea90344270133beaf42102f4c7eca72b69205aa2d8d606abdd67a69a0c5ffbe"
+    },
+    {
+      "path": "files/assets/39074153/1/continue-timer0009.png",
+      "bytes": 2211,
+      "sha256": "9f9a389647c5dbfb47e4952017d2a196f98fb4a21873de84a6ee18eb790978b0"
+    },
+    {
+      "path": "files/assets/39074154/1/continue-timer0010.png",
+      "bytes": 2204,
+      "sha256": "494f7f5de0b93c238236cc7e57cab3e8567b967dbf3433f99c74835a894c32af"
+    },
+    {
+      "path": "files/assets/39074155/1/continue-timer0011.png",
+      "bytes": 2256,
+      "sha256": "cc41eb3d3f103f5b0973207a63cfc6b0ca32df6e45ecc80856535cae4649a98e"
+    },
+    {
+      "path": "files/assets/39074156/1/continue-timer0012.png",
+      "bytes": 2226,
+      "sha256": "5ba5810b8d92fa9f242fdea56f3f8316b8adf374f11949781d5a45b5dd965d0b"
+    },
+    {
+      "path": "files/assets/39074157/1/continue-timer0013.png",
+      "bytes": 2228,
+      "sha256": "1e0d9097d95bb76f25ff106853cd85dea3faea39e895cfb99f3adfdaa4fd3a8a"
+    },
+    {
+      "path": "files/assets/39074158/1/continue-timer0014.png",
+      "bytes": 2198,
+      "sha256": "02cc5830defe95ac7f448e7662f2370396ee9d5059126f8940698858d072e539"
+    },
+    {
+      "path": "files/assets/39074159/1/continue-timer0015.png",
+      "bytes": 2230,
+      "sha256": "67fb7a6816eddb9cc9beb3b052c46797a3620a6bcb0be03f9d6651bccf0b760e"
+    },
+    {
+      "path": "files/assets/39074160/1/continue-timer0016.png",
+      "bytes": 2223,
+      "sha256": "0b63a23439f02a91807193b19fb7d4a4384aaee8a0970aee331949d28debfb86"
+    },
+    {
+      "path": "files/assets/39074161/1/continue-timer0017.png",
+      "bytes": 2254,
+      "sha256": "af3340aba157d39bd0c04f4dc43caa9c7da50967d4fb9c7e9374b12ab67de8c4"
+    },
+    {
+      "path": "files/assets/39074162/1/continue-timer0019.png",
+      "bytes": 2201,
+      "sha256": "b5887004a1179307517a3c32dc22dbad7f4fb22176abae6be6f0f38a45f0ca0d"
+    },
+    {
+      "path": "files/assets/39074163/1/continue-timer0020.png",
+      "bytes": 2203,
+      "sha256": "0548b53aaf5104ea3db29d8c913ca22594a71ed70906d2eddbd1319b0f71da22"
+    },
+    {
+      "path": "files/assets/39074164/1/continue-timer0018.png",
+      "bytes": 2202,
+      "sha256": "0ac65e595746597ada48e62962f05eca1ce38bef48a27492d47509dc94f4fcbb"
+    },
+    {
+      "path": "files/assets/39074165/1/continue-timer0021.png",
+      "bytes": 2158,
+      "sha256": "3c498b1a166b9aa5e5441f508c4e40707f19ecf8198213a3b78e77610fead45d"
+    },
+    {
+      "path": "files/assets/39074166/1/continue-timer0022.png",
+      "bytes": 2213,
+      "sha256": "cf9475be5f6d42381f16af63fab5fbb05945e697eae7d2521d2affec87c89590"
+    },
+    {
+      "path": "files/assets/39074167/1/continue-timer0023.png",
+      "bytes": 2160,
+      "sha256": "461e308c6eaff1cfe4e41836d188bab95e2860dc1014e5887a90bc9990bd14d7"
+    },
+    {
+      "path": "files/assets/39074168/1/continue-timer0024.png",
+      "bytes": 2120,
+      "sha256": "d67e4fbd0106b65d397812174ea32d88f16a411e2a10a16af16b5d932e442896"
+    },
+    {
+      "path": "files/assets/39074169/1/continue-timer0025.png",
+      "bytes": 2198,
+      "sha256": "26f6afbee19d6463e4acaeb0317025ef59b62d17c9c8d028d30851ff24faff1c"
+    },
+    {
+      "path": "files/assets/39074170/1/continue-timer0026.png",
+      "bytes": 2130,
+      "sha256": "09efaa3de793b787263f2e6e5dee729e1fc1572c822ac2376d97ac0994725486"
+    },
+    {
+      "path": "files/assets/39074171/1/continue-timer0028.png",
+      "bytes": 2148,
+      "sha256": "4e0ad90427d92759d207c8a6ab4a9decbf77fa8d87b08dd83b4f7ab3aed8877a"
+    },
+    {
+      "path": "files/assets/39074172/1/continue-timer0029.png",
+      "bytes": 2107,
+      "sha256": "373eb60213c50b872200ce0886667f2559d4aba771d856a5a958cc8d12974977"
+    },
+    {
+      "path": "files/assets/39074173/1/continue-timer0027.png",
+      "bytes": 2102,
+      "sha256": "48725cd751a0d0425fd4b8acbb1133cabf3d8fbfeaf9c04fb01e18f4dc812256"
+    },
+    {
+      "path": "files/assets/39074174/1/continue-timer0031.png",
+      "bytes": 2022,
+      "sha256": "5a89f6136fe731602f73a5badbf31197e8cdb988cc6294d50fc90a767be0b86c"
+    },
+    {
+      "path": "files/assets/39074175/1/continue-timer0032.png",
+      "bytes": 2014,
+      "sha256": "813156a6f9cf5f1fc60ae8fd0c17b608c790104fb2bb3d4e29eeed3006c7b2a0"
+    },
+    {
+      "path": "files/assets/39074176/1/continue-timer0030.png",
+      "bytes": 2068,
+      "sha256": "0f6b5cce28b077abd9c99ace443a65ee8bf0c33d44827f9820a34f9fe35b81af"
+    },
+    {
+      "path": "files/assets/39074177/1/continue-timer0033.png",
+      "bytes": 2008,
+      "sha256": "8e31d5fb5f8c79b926fdeb7187ca3e69056631f57601b28ae1a3fe88d4b8dd81"
+    },
+    {
+      "path": "files/assets/39074178/1/continue-timer0034.png",
+      "bytes": 1979,
+      "sha256": "c2007c51db478e3f8356ceab72724424fc09173c5ddfcefc023631d919ed5280"
+    },
+    {
+      "path": "files/assets/39074179/1/continue-timer0035.png",
+      "bytes": 1960,
+      "sha256": "c59645c8c288713d4af78e32c35388d1779a16f3b4c4eaded05e33633969c4f7"
+    },
+    {
+      "path": "files/assets/39074180/1/continue-timer0037.png",
+      "bytes": 1926,
+      "sha256": "32b32cbbc4a422118eb8ee856c87c3f51f757083684aed014c0f5d49e30b5d77"
+    },
+    {
+      "path": "files/assets/39074181/1/continue-timer0036.png",
+      "bytes": 1940,
+      "sha256": "01c6dbd2406a0c6101907ec9084a5c2559e5e89bb524514c738e5b891fe918ac"
+    },
+    {
+      "path": "files/assets/39074182/1/continue-timer0038.png",
+      "bytes": 1896,
+      "sha256": "ea27d5baf58d61dcc83044f419eecf35d7598458c0e8da9a94f08f4e69ed798b"
+    },
+    {
+      "path": "files/assets/39074183/1/continue-timer0039.png",
+      "bytes": 1874,
+      "sha256": "ff69e5c868a3478ab4595a2d25440f998e8f52f76e6ae4fa352f08deb9e3e8f8"
+    },
+    {
+      "path": "files/assets/39074184/1/continue-timer0040.png",
+      "bytes": 1815,
+      "sha256": "df29a3f99c6ae39c86f9ad7eba2d56e93028ddac599e6df891988283515ca750"
+    },
+    {
+      "path": "files/assets/39074185/1/continue-timer0041.png",
+      "bytes": 1827,
+      "sha256": "6658171bd6759e957480e779790c23823ebeadf97fd90e3c45fd13b97019eb3e"
+    },
+    {
+      "path": "files/assets/39074186/1/continue-timer0042.png",
+      "bytes": 1850,
+      "sha256": "31bd69d83178647b463f3c2087accd01e121e7c30209ccaeb69cb44f83013803"
+    },
+    {
+      "path": "files/assets/39074187/1/continue-timer0043.png",
+      "bytes": 1816,
+      "sha256": "79a29fee1f07ad721b540179290bd0bf345363566db6dcb2550ae54f7c6095a7"
+    },
+    {
+      "path": "files/assets/39074188/1/continue-timer0044.png",
+      "bytes": 1841,
+      "sha256": "908e15571d45efcca3992c4b984a100f31f8a2818c361cbbf8f044e27d9141f1"
+    },
+    {
+      "path": "files/assets/39074189/1/continue-timer0045.png",
+      "bytes": 1845,
+      "sha256": "78f1d4e276d47c4dbcb8064948fdc898ff403af79e1ad64fa5072789c8955f22"
+    },
+    {
+      "path": "files/assets/39074190/1/continue-timer0047.png",
+      "bytes": 1809,
+      "sha256": "f8dc793e7310d8b5e99158e14f0df6157c7164aa71e96ad682f82b3fd64d49dc"
+    },
+    {
+      "path": "files/assets/39074191/1/continue-timer0046.png",
+      "bytes": 1823,
+      "sha256": "c60ae23ee5fe144918329c299774252eca05aaf68cbe05179ce44d3fd59dc69f"
+    },
+    {
+      "path": "files/assets/39074192/1/continue-timer0048.png",
+      "bytes": 1799,
+      "sha256": "b207047800e72c7d1b68ac66eb463835c1ad12c6f728a89fdaedffd5a63ee46f"
+    },
+    {
+      "path": "files/assets/39074193/1/continue-timer0050.png",
+      "bytes": 1779,
+      "sha256": "1e7b64be7e61220c6b39db1505e596dd28deea634616efa7810d15879d3e9cbb"
+    },
+    {
+      "path": "files/assets/39074194/1/continue-timer0049.png",
+      "bytes": 1840,
+      "sha256": "05ec1cccc465668a030460d864a2d6a22fbbdbe7dba7ede9732052f562c84ce1"
+    },
+    {
+      "path": "files/assets/39074195/1/continue-timer0051.png",
+      "bytes": 1753,
+      "sha256": "bf8a9f8ccae6fb5c3ad682cfa397cc1001efedb6d2491a50f150ed4a31d784bb"
+    },
+    {
+      "path": "files/assets/39074196/1/continue-timer0053.png",
+      "bytes": 1735,
+      "sha256": "04b589a9b128f7aeff06f42f4bb441620964fbfc68b2382d45b5070e46319c2c"
+    },
+    {
+      "path": "files/assets/39074197/1/continue-timer0052.png",
+      "bytes": 1762,
+      "sha256": "dcdef010045f895c0e789e478b337b5c3fbf66809c40c09d3676bc407d452b21"
+    },
+    {
+      "path": "files/assets/39074198/1/continue-timer0054.png",
+      "bytes": 1768,
+      "sha256": "213e00da0af99f1070e65a12a00d109df3b8e25dde053abbe5a486e4a1fe7080"
+    },
+    {
+      "path": "files/assets/39074199/1/continue-timer0055.png",
+      "bytes": 1738,
+      "sha256": "0d8a2db4db574673032a1aaabf7e0fda2341bce3975b4772fd760f3ca10e1106"
+    },
+    {
+      "path": "files/assets/39074200/1/continue-timer0056.png",
+      "bytes": 1682,
+      "sha256": "dd89e6f772573bf6ca315b100a1c5e88fa7a3879cb64be565efb0a0d802095f4"
+    },
+    {
+      "path": "files/assets/39074201/1/continue-timer0057.png",
+      "bytes": 1676,
+      "sha256": "a1e464655e7501d25f6a5416412f6f9f2534aa01c4a9890a28e2f31611024f43"
+    },
+    {
+      "path": "files/assets/39074202/1/continue-timer0058.png",
+      "bytes": 1639,
+      "sha256": "ad86447c46c90ea05b592f23be04825f37d84a7e96c8592601583026a7cd7f6e"
+    },
+    {
+      "path": "files/assets/39074203/1/continue-timer0060.png",
+      "bytes": 1605,
+      "sha256": "018aa604e03e7ef0313056dde3e5c1daea925f159706642ee0d78b878c91dcd4"
+    },
+    {
+      "path": "files/assets/39074204/1/continue-timer0059.png",
+      "bytes": 1604,
+      "sha256": "555d817b3f3ae047a6e27839af6816fd761f83f6c4b9d6b38057c31622433abe"
+    },
+    {
+      "path": "files/assets/39074205/1/continue-timer0061.png",
+      "bytes": 1528,
+      "sha256": "c30d34ff57e75ec29f0f178c52e92e134e3374ffc12d870277bf35a99cd1b865"
+    },
+    {
+      "path": "files/assets/39074206/1/continue-timer0062.png",
+      "bytes": 1587,
+      "sha256": "8b9bd12dfa3bebe98f469a05136cdfa7c61cd3b4c49b78ebd9b404c29f0e16aa"
+    },
+    {
+      "path": "files/assets/39074207/1/continue-timer0064.png",
+      "bytes": 1580,
+      "sha256": "0d848c245c41b52576a41197a540d648eee21080d146bda837322c265291d0bb"
+    },
+    {
+      "path": "files/assets/39074208/1/continue-timer0063.png",
+      "bytes": 1600,
+      "sha256": "bedf932c28d8728fb7e13b10c0a88fd934e91992f2c26486001b25eb339bcb1c"
+    },
+    {
+      "path": "files/assets/39074209/1/continue-timer0065.png",
+      "bytes": 1566,
+      "sha256": "302e001389f179be06b3105234349f48cd7b64c2619e58d482445fdaa952c504"
+    },
+    {
+      "path": "files/assets/39074210/1/continue-timer0066.png",
+      "bytes": 1555,
+      "sha256": "dbb22b506d2f1f55037b185447a86d2d332740612b6696747063dbece314c342"
+    },
+    {
+      "path": "files/assets/39074211/1/continue-timer0067.png",
+      "bytes": 1532,
+      "sha256": "eaebc22b25fcb8f78bc7b5077413e1b0607b4114262137209c33903aa7b13e6a"
+    },
+    {
+      "path": "files/assets/39074212/1/continue-timer0068.png",
+      "bytes": 1498,
+      "sha256": "f69c6dfdabb3f4dc30daaa88888746bcd361549ddb424240533e7defffe2ad33"
+    },
+    {
+      "path": "files/assets/39074213/1/continue-timer0070.png",
+      "bytes": 1398,
+      "sha256": "5ade80148a9e6bc163b7015e0439430157a0fdf56e2dac0d90f5a613e3057834"
+    },
+    {
+      "path": "files/assets/39074214/1/continue-timer0069.png",
+      "bytes": 1419,
+      "sha256": "c1893faf66abd804f2635171827f2d1326989615f8825165b4abab9e8f9725ce"
+    },
+    {
+      "path": "files/assets/39074215/1/continue-timer0071.png",
+      "bytes": 1360,
+      "sha256": "16a31e2d79239849ae61daeee2dfcacb2052cfeab99669c40591aa2cb3664054"
+    },
+    {
+      "path": "files/assets/39074216/1/continue-timer0073.png",
+      "bytes": 1278,
+      "sha256": "508b977401c5f56adb9036832232cb43a6f0cb639e902cb017357fc7c690729e"
+    },
+    {
+      "path": "files/assets/39074217/1/continue-timer0072.png",
+      "bytes": 1299,
+      "sha256": "35c3b04e609fdc1b0af61c361aad27f7f53a73548ca4a0e91bf879a05697285d"
+    },
+    {
+      "path": "files/assets/39074218/1/continue-timer0074.png",
+      "bytes": 1244,
+      "sha256": "f3ff987b20f6c3069b32d623e99293cbcc9ab976b18621642af59db4ce97517a"
+    },
+    {
+      "path": "files/assets/39074219/1/continue-timer0075.png",
+      "bytes": 1203,
+      "sha256": "ef73b00ccfbb22e0b7fbbe4747b1c9694865f8c0b80649461dd12ce565e332e8"
+    },
+    {
+      "path": "files/assets/39074220/1/continue-timer0076.png",
+      "bytes": 1163,
+      "sha256": "f09f6c6e430794e2e042cf495da517ddeccd5afd6381b3d6be001687f5dbc29d"
+    },
+    {
+      "path": "files/assets/39074221/1/continue-timer0077.png",
+      "bytes": 1130,
+      "sha256": "596e596aceb4e4571517305b8e42024eb6266a842b4ccada713f3f47f8287283"
+    },
+    {
+      "path": "files/assets/39074222/1/continue-timer0078.png",
+      "bytes": 1106,
+      "sha256": "a875954fc100311d3bf705c285131bf574ba572dd84c0aa58926865005a0ca1f"
+    },
+    {
+      "path": "files/assets/39074223/1/continue-timer0080.png",
+      "bytes": 935,
+      "sha256": "eedbc921c2856829e529c6bbf28493793816bbe020bdb4d0482edc4776d93d8d"
+    },
+    {
+      "path": "files/assets/39074224/1/continue-timer0079.png",
+      "bytes": 1062,
+      "sha256": "d4d9d4657d7d5439ca74bd4e14d15916dffc1a58e91a1a6aedcbcf5f14f6ab39"
+    },
+    {
+      "path": "files/assets/39074225/1/continue-timer0081.png",
+      "bytes": 1015,
+      "sha256": "c1df8b56bde12f3b959308b33db88b54a4a9f59479765023d0651b7c1c1b5881"
+    },
+    {
+      "path": "files/assets/39074226/1/continue-timer0082.png",
+      "bytes": 1019,
+      "sha256": "e9976a9e1f32b1e38163ff9794d515785f58497104399b23d8ad80450c3a962b"
+    },
+    {
+      "path": "files/assets/39074227/1/continue-timer0083.png",
+      "bytes": 977,
+      "sha256": "9c05670205723ec64cbdd5a97a3df0541f10537f2cd3a75a045cdc440cdc791f"
+    },
+    {
+      "path": "files/assets/39074228/1/continue-timer0084.png",
+      "bytes": 952,
+      "sha256": "26351f24859907474154589e5de510160e7c3f2c7adfb5a2886d80453320a8bb"
+    },
+    {
+      "path": "files/assets/39074229/1/continue-timer0085.png",
+      "bytes": 962,
+      "sha256": "7b6808d35f6006149609ec60b45bb287f2585c1bb44638eb8dda85c10fc5eb67"
+    },
+    {
+      "path": "files/assets/39074230/1/continue-timer0086.png",
+      "bytes": 949,
+      "sha256": "4a396a60a33e8216ee19a593aa18a342d91eca14f95ac71186654f98e4cb5c00"
+    },
+    {
+      "path": "files/assets/39074231/1/continue-timer0087.png",
+      "bytes": 898,
+      "sha256": "51e6808dcc557b0a45a2054c8753f59bf89b218cdb362d8dcfef7c28f00140c6"
+    },
+    {
+      "path": "files/assets/39074232/1/continue-timer0088.png",
+      "bytes": 905,
+      "sha256": "b06b17e266a4ab91ee5fe955889b778ea1048f8a02e4774bc729b8780cdef07b"
+    },
+    {
+      "path": "files/assets/39074233/1/continue-timer0089.png",
+      "bytes": 873,
+      "sha256": "385547d43573f24a516c382b30b532b16bca2be6764a8e48ec033768ffe515a3"
+    },
+    {
+      "path": "files/assets/39074234/1/continue-timer0090.png",
+      "bytes": 908,
+      "sha256": "33b2a1f5abf02c7795ce3acaf647a9150ef115a2a2b816af6e107d3ba6363e26"
+    },
+    {
+      "path": "files/assets/39074235/1/continue-timer0091.png",
+      "bytes": 876,
+      "sha256": "2d891f0b75153058df2e20008aa19cf095d76a65ebf4ebd6ea8703e31f099fac"
+    },
+    {
+      "path": "files/assets/39074236/1/continue-timer0092.png",
+      "bytes": 849,
+      "sha256": "cd50d72cf4f2b316b385058b9d3abf66d8a20a51b42546a2e4480dde2129cd1c"
+    },
+    {
+      "path": "files/assets/39074237/1/continue-timer0093.png",
+      "bytes": 855,
+      "sha256": "30c3f52ccdd0a24ad804f70af40b62c71abf29485df350ee3e2e5aeaae4be226"
+    },
+    {
+      "path": "files/assets/39074238/1/continue-timer0095.png",
+      "bytes": 880,
+      "sha256": "f77cad5c6b75b455c45554503d67a76378f95779bcf2afde18aee22904905155"
+    },
+    {
+      "path": "files/assets/39074239/1/continue-timer0094.png",
+      "bytes": 883,
+      "sha256": "44971eb9592cfa9a6fb12ec1284609241299c4e491a5e74158e5fe24c975315f"
+    },
+    {
+      "path": "files/assets/39074240/1/continue-timer0096.png",
+      "bytes": 843,
+      "sha256": "23a6d0af0024d15f3f0a7ac354bdfb6a8cad962e3ebfcf262e8c6521ad176411"
+    },
+    {
+      "path": "files/assets/39074241/1/continue-timer0097.png",
+      "bytes": 798,
+      "sha256": "c402caad068fb199668e065ad8f0b2a0585e679e4467a345a133b95be041fced"
+    },
+    {
+      "path": "files/assets/39074242/1/continue-timer0098.png",
+      "bytes": 779,
+      "sha256": "e502e9cebf193b535b630567b14018324ca3156176aab92314fc2a9706d98c3c"
+    },
+    {
+      "path": "files/assets/39074243/1/continue-timer0099.png",
+      "bytes": 750,
+      "sha256": "f4198cfbe88c9a434c2b8d161216ffaeb67bee106387baaab67a125863cb0e29"
+    },
+    {
+      "path": "files/assets/39074244/1/continue-timer0100.png",
+      "bytes": 676,
+      "sha256": "d420008b03537c94b02f9a1ecbd1593a333d3b7bb07549f153fea85ec230ad0b"
+    },
+    {
+      "path": "files/assets/39074245/1/continue-timer0101.png",
+      "bytes": 579,
+      "sha256": "46b11f9ec731bef60b55fb9826316dc73568d4f26e6ec0e24fc4fb9b045c65bb"
+    },
+    {
+      "path": "index.html",
+      "bytes": 739,
+      "sha256": "48f0bdcbb41ebc22c7191254079aa500b96db401a9438073aa8f0365427a28e2"
+    },
+    {
+      "path": "logo.png",
+      "bytes": 48675,
+      "sha256": "4f5f0415eba0fe4b379c98b667a1ad890534d6455ff3937cfa7e721edb97abd1"
+    },
+    {
+      "path": "manifest.json",
+      "bytes": 351,
+      "sha256": "334c62d4e3d51a83e2e24ddb1ea775d59ae4e9e532d08ecba81fff1c71c162ab"
+    },
+    {
+      "path": "playcanvas-stable.min.js",
+      "bytes": 1744902,
+      "sha256": "bda3d74fa8f9c9ef3811f2480ce6ce94e47c4945a3737094e6f88f0c006d04ad"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 736,
+      "sha256": "14621356b978e60a93d3667bbcbb05dc88e9469a5b2e000c02eee95f6e714646"
+    },
+    {
+      "path": "__game-scripts.js",
+      "bytes": 407632,
+      "sha256": "5f666becc96b5151a2addaff1b121c60b42f4ea308122ca43658067244ebcf79"
+    },
+    {
+      "path": "__loading__.js",
+      "bytes": 3162,
+      "sha256": "e811af9e14d07cca79634e41c1877fde99511a4d95d5b5a530628406b7b3919c"
+    },
+    {
+      "path": "__modules__.js",
+      "bytes": 1733,
+      "sha256": "e5646af826aa774cabfb7b54ba05210419719a803ef51d90b0d9e3338832db97"
+    },
+    {
+      "path": "__remote/game-cdn.poki.com/scripts/eaa5e71ba816bc70b0d49514e38ab8f23df7c63c/poki-sdk-core-eaa5e71ba816bc70b0d49514e38ab8f23df7c63c.js",
+      "bytes": 332261,
+      "sha256": "754e6a3973b1f0f4a7e652f17f7c1b0f62a9642e1f6f411aaf0b9883370ca561"
+    },
+    {
+      "path": "__remote/game-cdn.poki.com/scripts/v2/poki-sdk.js",
+      "bytes": 6688,
+      "sha256": "06e2fb27d38eaa7e1b169c6c4a64c5af37f73f085509bc87bec3c1a5abb12a24"
+    },
+    {
+      "path": "__settings__.js",
+      "bytes": 1161,
+      "sha256": "588fccb32ed83b417d415cbe2ff7056a51f53f1f6617fba555641d7592fdfac2"
+    },
+    {
+      "path": "__start__.js",
+      "bytes": 12415,
+      "sha256": "f0c4c8f83f37e764460406f318b96421c57eca1e56d6eaf6e37c031ccabc9ba0"
+    }
+  ]
+}

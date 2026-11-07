@@ -1,0 +1,1 @@
+2026/11/07 08:39:23 [emerg] 23468#29072: bind() to 127.0.0.1:18770 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
